@@ -1,0 +1,360 @@
+{
+ "format": 1,
+ "id": "pearson-maths-9ma0",
+ "board": "Pearson",
+ "subject": "Mathematics",
+ "level": "A-level",
+ "code": "9MA0",
+ "title": "Mathematics",
+ "firstExam": 2018,
+ "specVersion": null,
+ "source": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/mathematics-2017.html",
+ "v": 1,
+ "series": "June 2027",
+ "hours": 60,
+ "options": [],
+ "papers": [
+  {
+   "id": "9MA0/01",
+   "name": "Paper 1: Pure Mathematics 1",
+   "minutes": 120,
+   "date": "2027-05-26",
+   "start": "13:30"
+  },
+  {
+   "id": "9MA0/02",
+   "name": "Paper 2: Pure Mathematics 2",
+   "minutes": 120,
+   "date": "2027-06-09",
+   "start": "13:30"
+  },
+  {
+   "id": "9MA0/03",
+   "name": "Paper 3: Statistics and Mechanics",
+   "minutes": 120,
+   "date": "2027-06-16",
+   "start": "13:30"
+  }
+ ],
+ "topics": [
+  {
+   "id": "t1",
+   "name": "Proof",
+   "papers": [
+    "9MA0/01",
+    "9MA0/02"
+   ],
+   "sub": [
+    "Proof by deduction",
+    "Proof by exhaustion",
+    "Disproof by counter-example",
+    "Proof by contradiction"
+   ],
+   "mins": 150
+  },
+  {
+   "id": "t2",
+   "name": "Algebra and functions",
+   "papers": [
+    "9MA0/01",
+    "9MA0/02"
+   ],
+   "sub": [
+    "Indices and surds",
+    "Quadratics and the discriminant",
+    "Simultaneous equations",
+    "Inequalities",
+    "Polynomials and the factor theorem",
+    "Partial fractions",
+    "Graphs and transformations",
+    "Modulus",
+    "Composite and inverse functions"
+   ],
+   "mins": 345
+  },
+  {
+   "id": "t3",
+   "name": "Coordinate geometry in the (x, y) plane",
+   "papers": [
+    "9MA0/01",
+    "9MA0/02"
+   ],
+   "sub": [
+    "Straight lines",
+    "Circles",
+    "Parametric equations"
+   ],
+   "mins": 120
+  },
+  {
+   "id": "t4",
+   "name": "Sequences and series",
+   "papers": [
+    "9MA0/01",
+    "9MA0/02"
+   ],
+   "sub": [
+    "Binomial expansion",
+    "Arithmetic sequences and series",
+    "Geometric sequences and series",
+    "Sigma notation",
+    "Recurrence relations"
+   ],
+   "mins": 195
+  },
+  {
+   "id": "t5",
+   "name": "Trigonometry",
+   "papers": [
+    "9MA0/01",
+    "9MA0/02"
+   ],
+   "sub": [
+    "Radians, arc length and sector area",
+    "Small angle approximations",
+    "Sec, cosec, cot and inverse trig",
+    "Identities",
+    "Compound and double angle formulae",
+    "R cos(x ± a) form",
+    "Solving equations"
+   ],
+   "mins": 270
+  },
+  {
+   "id": "t6",
+   "name": "Exponentials and logarithms",
+   "papers": [
+    "9MA0/01",
+    "9MA0/02"
+   ],
+   "sub": [
+    "e^x and ln x",
+    "Laws of logarithms",
+    "Solving equations",
+    "Exponential models",
+    "Using log graphs to find constants"
+   ],
+   "mins": 195
+  },
+  {
+   "id": "t7",
+   "name": "Differentiation",
+   "papers": [
+    "9MA0/01",
+    "9MA0/02"
+   ],
+   "sub": [
+    "First principles",
+    "Standard derivatives",
+    "Tangents and normals",
+    "Stationary points",
+    "Chain, product and quotient rules",
+    "Implicit and parametric",
+    "Connected rates of change",
+    "Concave, convex and points of inflection"
+   ],
+   "mins": 300
+  },
+  {
+   "id": "t8",
+   "name": "Integration",
+   "papers": [
+    "9MA0/01",
+    "9MA0/02"
+   ],
+   "sub": [
+    "Standard integrals",
+    "Definite integrals and areas",
+    "Substitution",
+    "By parts",
+    "Partial fractions",
+    "Separable differential equations"
+   ],
+   "mins": 225
+  },
+  {
+   "id": "t9",
+   "name": "Numerical methods",
+   "papers": [
+    "9MA0/01",
+    "9MA0/02"
+   ],
+   "sub": [
+    "Locating roots",
+    "Iteration",
+    "Newton-Raphson",
+    "Trapezium rule"
+   ],
+   "mins": 150
+  },
+  {
+   "id": "t10",
+   "name": "Vectors",
+   "papers": [
+    "9MA0/01",
+    "9MA0/02"
+   ],
+   "sub": [
+    "Vectors in 2D and 3D",
+    "Magnitude and direction",
+    "Position vectors",
+    "Geometric problems"
+   ],
+   "mins": 150
+  },
+  {
+   "id": "t11",
+   "name": "Statistical sampling",
+   "papers": [
+    "9MA0/03"
+   ],
+   "sub": [
+    "Populations and samples",
+    "Sampling methods"
+   ],
+   "mins": 75
+  },
+  {
+   "id": "t12",
+   "name": "Data presentation and interpretation",
+   "papers": [
+    "9MA0/03"
+   ],
+   "sub": [
+    "Histograms, box plots and cumulative frequency",
+    "Measures of location and spread",
+    "Correlation and regression",
+    "Outliers and cleaning data",
+    "The large data set"
+   ],
+   "mins": 195
+  },
+  {
+   "id": "t13",
+   "name": "Probability",
+   "papers": [
+    "9MA0/03"
+   ],
+   "sub": [
+    "Venn and tree diagrams",
+    "Mutually exclusive and independent events",
+    "Conditional probability"
+   ],
+   "mins": 120
+  },
+  {
+   "id": "t14",
+   "name": "Statistical distributions",
+   "papers": [
+    "9MA0/03"
+   ],
+   "sub": [
+    "Binomial distribution",
+    "Normal distribution",
+    "Choosing and approximating distributions"
+   ],
+   "mins": 120
+  },
+  {
+   "id": "t15",
+   "name": "Statistical hypothesis testing",
+   "papers": [
+    "9MA0/03"
+   ],
+   "sub": [
+    "Binomial tests",
+    "Tests for a normal mean",
+    "Correlation coefficient tests",
+    "Critical regions and significance"
+   ],
+   "mins": 150
+  },
+  {
+   "id": "t16",
+   "name": "Quantities and units in mechanics",
+   "papers": [
+    "9MA0/03"
+   ],
+   "sub": [
+    "SI units",
+    "Modelling assumptions"
+   ],
+   "mins": 75
+  },
+  {
+   "id": "t17",
+   "name": "Kinematics",
+   "papers": [
+    "9MA0/03"
+   ],
+   "sub": [
+    "Constant acceleration (suvat)",
+    "Displacement-time and velocity-time graphs",
+    "Variable acceleration with calculus",
+    "Projectiles"
+   ],
+   "mins": 150
+  },
+  {
+   "id": "t18",
+   "name": "Forces and Newton's laws",
+   "papers": [
+    "9MA0/03"
+   ],
+   "sub": [
+    "Newton's laws",
+    "Connected particles and pulleys",
+    "Resolving forces",
+    "Friction",
+    "Inclined planes"
+   ],
+   "mins": 195
+  },
+  {
+   "id": "t19",
+   "name": "Moments",
+   "papers": [
+    "9MA0/03"
+   ],
+   "sub": [
+    "Moments",
+    "Equilibrium of rigid bodies",
+    "Ladders and beams"
+   ],
+   "mins": 120
+  },
+  {
+   "id": "t20",
+   "name": "Past paper practice: Paper 1: Pure Mathematics 1",
+   "papers": [
+    "9MA0/01"
+   ],
+   "sub": [],
+   "practice": true,
+   "mins": 120
+  },
+  {
+   "id": "t21",
+   "name": "Past paper practice: Paper 2: Pure Mathematics 2",
+   "papers": [
+    "9MA0/02"
+   ],
+   "sub": [],
+   "practice": true,
+   "mins": 120
+  },
+  {
+   "id": "t22",
+   "name": "Past paper practice: Paper 3: Statistics and Mechanics",
+   "papers": [
+    "9MA0/03"
+   ],
+   "sub": [],
+   "practice": true,
+   "mins": 120
+  }
+ ],
+ "unsure": [
+  "Spec issue number not recorded."
+ ]
+}

@@ -1,0 +1,389 @@
+{
+ "format": 1,
+ "id": "ocr-physics-a-h556",
+ "board": "OCR",
+ "subject": "Physics",
+ "level": "A-level",
+ "code": "H556",
+ "title": "Physics A",
+ "firstExam": 2017,
+ "specVersion": null,
+ "source": "https://www.ocr.org.uk/qualifications/as-and-a-level/physics-a-h156-h556-from-2015/",
+ "v": 1,
+ "series": "June 2027",
+ "hours": 60,
+ "options": [],
+ "papers": [
+  {
+   "id": "H556/01",
+   "name": "Paper 1: Modelling physics",
+   "minutes": 135,
+   "date": "2027-05-21",
+   "start": "09:00"
+  },
+  {
+   "id": "H556/02",
+   "name": "Paper 2: Exploring physics",
+   "minutes": 135,
+   "date": "2027-05-27",
+   "start": "13:30"
+  },
+  {
+   "id": "H556/03",
+   "name": "Paper 3: Unified physics",
+   "minutes": 90,
+   "date": "2027-06-08",
+   "start": "09:00"
+  }
+ ],
+ "topics": [
+  {
+   "id": "t1",
+   "name": "Development of practical skills (Module 1)",
+   "papers": [
+    "H556/01",
+    "H556/02",
+    "H556/03"
+   ],
+   "sub": [
+    "Planning",
+    "Implementing",
+    "Analysis",
+    "Evaluation"
+   ],
+   "mins": 180
+  },
+  {
+   "id": "t2",
+   "name": "Foundations of physics (Module 2)",
+   "papers": [
+    "H556/01",
+    "H556/02",
+    "H556/03"
+   ],
+   "sub": [
+    "Physical quantities and units",
+    "Making measurements and analysing data",
+    "Scalars and vectors"
+   ],
+   "mins": 135
+  },
+  {
+   "id": "t3",
+   "name": "Motion",
+   "papers": [
+    "H556/01",
+    "H556/03"
+   ],
+   "sub": [
+    "Kinematics",
+    "Linear motion",
+    "Projectile motion"
+   ],
+   "mins": 135
+  },
+  {
+   "id": "t4",
+   "name": "Forces in action",
+   "papers": [
+    "H556/01",
+    "H556/03"
+   ],
+   "sub": [
+    "Dynamics",
+    "Motion with non-uniform acceleration",
+    "Equilibrium",
+    "Density and pressure"
+   ],
+   "mins": 180
+  },
+  {
+   "id": "t5",
+   "name": "Work, energy and power",
+   "papers": [
+    "H556/01",
+    "H556/03"
+   ],
+   "sub": [
+    "Work and conservation of energy",
+    "Kinetic and potential energies",
+    "Power"
+   ],
+   "mins": 135
+  },
+  {
+   "id": "t6",
+   "name": "Materials",
+   "papers": [
+    "H556/01",
+    "H556/03"
+   ],
+   "sub": [
+    "Springs",
+    "Mechanical properties of matter"
+   ],
+   "mins": 90
+  },
+  {
+   "id": "t7",
+   "name": "Newton's laws of motion and momentum",
+   "papers": [
+    "H556/01",
+    "H556/03"
+   ],
+   "sub": [
+    "Newton's laws",
+    "Collisions"
+   ],
+   "mins": 90
+  },
+  {
+   "id": "t8",
+   "name": "Charge and current",
+   "papers": [
+    "H556/02",
+    "H556/03"
+   ],
+   "sub": [
+    "Charge",
+    "Mean drift velocity"
+   ],
+   "mins": 90
+  },
+  {
+   "id": "t9",
+   "name": "Energy, power and resistance",
+   "papers": [
+    "H556/02",
+    "H556/03"
+   ],
+   "sub": [
+    "Circuit symbols",
+    "E.m.f. and p.d.",
+    "Resistance",
+    "Resistivity",
+    "Power"
+   ],
+   "mins": 225
+  },
+  {
+   "id": "t10",
+   "name": "Electrical circuits",
+   "papers": [
+    "H556/02",
+    "H556/03"
+   ],
+   "sub": [
+    "Series and parallel circuits",
+    "Internal resistance",
+    "Potential dividers"
+   ],
+   "mins": 135
+  },
+  {
+   "id": "t11",
+   "name": "Waves",
+   "papers": [
+    "H556/02",
+    "H556/03"
+   ],
+   "sub": [
+    "Wave motion",
+    "Electromagnetic waves",
+    "Superposition",
+    "Stationary waves"
+   ],
+   "mins": 180
+  },
+  {
+   "id": "t12",
+   "name": "Quantum physics",
+   "papers": [
+    "H556/02",
+    "H556/03"
+   ],
+   "sub": [
+    "Photons",
+    "Photoelectric effect",
+    "Wave-particle duality"
+   ],
+   "mins": 135
+  },
+  {
+   "id": "t13",
+   "name": "Thermal physics",
+   "papers": [
+    "H556/01",
+    "H556/03"
+   ],
+   "sub": [
+    "Temperature",
+    "Solid, liquid and gas",
+    "Thermal properties of materials",
+    "Ideal gases"
+   ],
+   "mins": 180
+  },
+  {
+   "id": "t14",
+   "name": "Circular motion",
+   "papers": [
+    "H556/01",
+    "H556/03"
+   ],
+   "sub": [
+    "Kinematics of circular motion",
+    "Centripetal force"
+   ],
+   "mins": 90
+  },
+  {
+   "id": "t15",
+   "name": "Oscillations",
+   "papers": [
+    "H556/01",
+    "H556/03"
+   ],
+   "sub": [
+    "Simple harmonic oscillations",
+    "Energy of a simple harmonic oscillator",
+    "Damping and resonance"
+   ],
+   "mins": 135
+  },
+  {
+   "id": "t16",
+   "name": "Gravitational fields",
+   "papers": [
+    "H556/01",
+    "H556/03"
+   ],
+   "sub": [
+    "Point and spherical masses",
+    "Newton's law of gravitation",
+    "Planetary motion",
+    "Gravitational potential and energy"
+   ],
+   "mins": 180
+  },
+  {
+   "id": "t17",
+   "name": "Astrophysics and cosmology",
+   "papers": [
+    "H556/01",
+    "H556/03"
+   ],
+   "sub": [
+    "Stars",
+    "Electromagnetic radiation from stars",
+    "Cosmology"
+   ],
+   "mins": 135
+  },
+  {
+   "id": "t18",
+   "name": "Capacitors",
+   "papers": [
+    "H556/02",
+    "H556/03"
+   ],
+   "sub": [
+    "Capacitors",
+    "Energy",
+    "Charging and discharging"
+   ],
+   "mins": 135
+  },
+  {
+   "id": "t19",
+   "name": "Electric fields",
+   "papers": [
+    "H556/02",
+    "H556/03"
+   ],
+   "sub": [
+    "Point and spherical charges",
+    "Coulomb's law",
+    "Uniform electric fields",
+    "Electric potential and energy"
+   ],
+   "mins": 180
+  },
+  {
+   "id": "t20",
+   "name": "Electromagnetism",
+   "papers": [
+    "H556/02",
+    "H556/03"
+   ],
+   "sub": [
+    "Magnetic fields",
+    "Motion of charged particles",
+    "Electromagnetic induction"
+   ],
+   "mins": 135
+  },
+  {
+   "id": "t21",
+   "name": "Nuclear and particle physics",
+   "papers": [
+    "H556/02",
+    "H556/03"
+   ],
+   "sub": [
+    "The nuclear atom",
+    "Fundamental particles",
+    "Radioactivity",
+    "Nuclear fission and fusion"
+   ],
+   "mins": 180
+  },
+  {
+   "id": "t22",
+   "name": "Medical imaging",
+   "papers": [
+    "H556/02",
+    "H556/03"
+   ],
+   "sub": [
+    "Using X-rays",
+    "Diagnostic methods in medicine",
+    "Using ultrasound"
+   ],
+   "mins": 135
+  },
+  {
+   "id": "t23",
+   "name": "Past paper practice: Paper 1: Modelling physics",
+   "papers": [
+    "H556/01"
+   ],
+   "sub": [],
+   "practice": true,
+   "mins": 135
+  },
+  {
+   "id": "t24",
+   "name": "Past paper practice: Paper 2: Exploring physics",
+   "papers": [
+    "H556/02"
+   ],
+   "sub": [],
+   "practice": true,
+   "mins": 135
+  },
+  {
+   "id": "t25",
+   "name": "Past paper practice: Paper 3: Unified physics",
+   "papers": [
+    "H556/03"
+   ],
+   "sub": [],
+   "practice": true,
+   "mins": 135
+  }
+ ],
+ "unsure": [
+  "Spec version number not recorded."
+ ]
+}

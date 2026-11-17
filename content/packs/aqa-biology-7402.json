@@ -1,0 +1,217 @@
+{
+ "format": 1,
+ "id": "aqa-biology-7402",
+ "board": "AQA",
+ "subject": "Biology",
+ "level": "A-level",
+ "code": "7402",
+ "title": "Biology",
+ "firstExam": 2017,
+ "specVersion": null,
+ "source": "https://www.aqa.org.uk/subjects/biology/a-level/biology-7402/specification",
+ "v": 1,
+ "series": "June 2027",
+ "hours": 60,
+ "options": [],
+ "papers": [
+  {
+   "id": "7402/1",
+   "name": "Paper 1",
+   "minutes": 120,
+   "date": "2027-06-07",
+   "start": "13:30"
+  },
+  {
+   "id": "7402/2",
+   "name": "Paper 2",
+   "minutes": 120,
+   "date": "2027-06-14",
+   "start": "13:30"
+  },
+  {
+   "id": "7402/3",
+   "name": "Paper 3",
+   "minutes": 120,
+   "date": "2027-06-18",
+   "start": "09:00"
+  }
+ ],
+ "topics": [
+  {
+   "id": "t1",
+   "name": "Biological molecules",
+   "papers": [
+    "7402/1",
+    "7402/3"
+   ],
+   "sub": [
+    "Monomers and polymers",
+    "Carbohydrates",
+    "Lipids",
+    "Proteins",
+    "Enzymes",
+    "Nucleic acids",
+    "ATP",
+    "Water",
+    "Inorganic ions"
+   ],
+   "mins": 585
+  },
+  {
+   "id": "t2",
+   "name": "Cells",
+   "papers": [
+    "7402/1",
+    "7402/3"
+   ],
+   "sub": [
+    "Cell structure",
+    "Microscopy",
+    "Mitosis and the cell cycle",
+    "Transport across membranes",
+    "Cell recognition and the immune system"
+   ],
+   "mins": 330
+  },
+  {
+   "id": "t3",
+   "name": "Organisms exchange substances with their environment",
+   "papers": [
+    "7402/1",
+    "7402/3"
+   ],
+   "sub": [
+    "Surface area to volume ratio",
+    "Gas exchange",
+    "Digestion and absorption",
+    "Mass transport in animals",
+    "Mass transport in plants"
+   ],
+   "mins": 330
+  },
+  {
+   "id": "t4",
+   "name": "Genetic information, variation and relationships between organisms",
+   "papers": [
+    "7402/1",
+    "7402/3"
+   ],
+   "sub": [
+    "DNA, genes and chromosomes",
+    "Protein synthesis",
+    "Mutations and meiosis",
+    "Genetic diversity and adaptation",
+    "Species and taxonomy",
+    "Biodiversity",
+    "Investigating diversity"
+   ],
+   "mins": 465
+  },
+  {
+   "id": "t5",
+   "name": "Energy transfers in and between organisms",
+   "papers": [
+    "7402/2",
+    "7402/3"
+   ],
+   "sub": [
+    "Photosynthesis",
+    "Respiration",
+    "Energy and ecosystems",
+    "Nutrient cycles"
+   ],
+   "mins": 255
+  },
+  {
+   "id": "t6",
+   "name": "Organisms respond to changes in their environments",
+   "papers": [
+    "7402/2",
+    "7402/3"
+   ],
+   "sub": [
+    "Stimuli and responses",
+    "Nervous coordination",
+    "Skeletal muscles",
+    "Homeostasis"
+   ],
+   "mins": 255
+  },
+  {
+   "id": "t7",
+   "name": "Genetics, populations, evolution and ecosystems",
+   "papers": [
+    "7402/2",
+    "7402/3"
+   ],
+   "sub": [
+    "Inheritance",
+    "Populations",
+    "Evolution and speciation",
+    "Populations in ecosystems"
+   ],
+   "mins": 255
+  },
+  {
+   "id": "t8",
+   "name": "The control of gene expression",
+   "papers": [
+    "7402/2",
+    "7402/3"
+   ],
+   "sub": [
+    "Mutations",
+    "Control of gene expression",
+    "Genome projects",
+    "Gene technologies"
+   ],
+   "mins": 255
+  },
+  {
+   "id": "t9",
+   "name": "Required practicals and essay skills",
+   "papers": [
+    "7402/3"
+   ],
+   "sub": [
+    "The 12 required practicals",
+    "Data analysis",
+    "Synoptic essay practice"
+   ],
+   "mins": 255
+  },
+  {
+   "id": "t10",
+   "name": "Past paper practice: Paper 1",
+   "papers": [
+    "7402/1"
+   ],
+   "sub": [],
+   "practice": true,
+   "mins": 195
+  },
+  {
+   "id": "t11",
+   "name": "Past paper practice: Paper 2",
+   "papers": [
+    "7402/2"
+   ],
+   "sub": [],
+   "practice": true,
+   "mins": 195
+  },
+  {
+   "id": "t12",
+   "name": "Past paper practice: Paper 3",
+   "papers": [
+    "7402/3"
+   ],
+   "sub": [],
+   "practice": true,
+   "mins": 195
+  }
+ ],
+ "unsure": [
+  "Spec version number not recorded."
+ ]
+}

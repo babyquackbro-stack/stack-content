@@ -1,0 +1,413 @@
+{
+ "format": 1,
+ "id": "aqa-psychology-7182",
+ "board": "AQA",
+ "subject": "Psychology",
+ "level": "A-level",
+ "code": "7182",
+ "title": "Psychology",
+ "firstExam": 2017,
+ "specVersion": null,
+ "source": "https://www.aqa.org.uk/subjects/psychology/a-level/psychology-7182/specification",
+ "v": 1,
+ "series": "June 2027",
+ "hours": 60,
+ "options": [
+  {
+   "id": "opt1",
+   "name": "Paper 3 option 1",
+   "pick": 1,
+   "choices": [
+    {
+     "id": "rel",
+     "name": "Relationships"
+    },
+    {
+     "id": "gen",
+     "name": "Gender"
+    },
+    {
+     "id": "cog",
+     "name": "Cognition and development"
+    }
+   ]
+  },
+  {
+   "id": "opt2",
+   "name": "Paper 3 option 2",
+   "pick": 1,
+   "choices": [
+    {
+     "id": "sch",
+     "name": "Schizophrenia"
+    },
+    {
+     "id": "eat",
+     "name": "Eating behaviour"
+    },
+    {
+     "id": "str",
+     "name": "Stress"
+    }
+   ]
+  },
+  {
+   "id": "opt3",
+   "name": "Paper 3 option 3",
+   "pick": 1,
+   "choices": [
+    {
+     "id": "agg",
+     "name": "Aggression"
+    },
+    {
+     "id": "for",
+     "name": "Forensic psychology"
+    },
+    {
+     "id": "add",
+     "name": "Addiction"
+    }
+   ]
+  }
+ ],
+ "papers": [
+  {
+   "id": "7182/1",
+   "name": "Paper 1: Introductory topics in psychology",
+   "minutes": 120,
+   "date": "2027-05-18",
+   "start": "09:00"
+  },
+  {
+   "id": "7182/2",
+   "name": "Paper 2: Psychology in context",
+   "minutes": 120,
+   "date": "2027-05-25",
+   "start": "09:00"
+  },
+  {
+   "id": "7182/3",
+   "name": "Paper 3: Issues and options in psychology",
+   "minutes": 120,
+   "date": "2027-06-09",
+   "start": "09:00"
+  }
+ ],
+ "topics": [
+  {
+   "id": "t1",
+   "name": "Social influence",
+   "papers": [
+    "7182/1"
+   ],
+   "sub": [
+    "Conformity",
+    "Obedience",
+    "Resistance to social influence",
+    "Minority influence",
+    "Social change"
+   ],
+   "mins": 240
+  },
+  {
+   "id": "t2",
+   "name": "Memory",
+   "papers": [
+    "7182/1"
+   ],
+   "sub": [
+    "Multi-store model",
+    "Types of long-term memory",
+    "Working memory model",
+    "Forgetting",
+    "Eyewitness testimony",
+    "Cognitive interview"
+   ],
+   "mins": 285
+  },
+  {
+   "id": "t3",
+   "name": "Attachment",
+   "papers": [
+    "7182/1"
+   ],
+   "sub": [
+    "Caregiver-infant interactions",
+    "Stages of attachment",
+    "Animal studies",
+    "Explanations of attachment",
+    "Strange Situation",
+    "Cultural variations",
+    "Maternal deprivation",
+    "Romanian orphan studies",
+    "Influence of early attachment"
+   ],
+   "mins": 420
+  },
+  {
+   "id": "t4",
+   "name": "Psychopathology",
+   "papers": [
+    "7182/1"
+   ],
+   "sub": [
+    "Definitions of abnormality",
+    "Phobias, depression and OCD",
+    "Behavioural approach to phobias",
+    "Cognitive approach to depression",
+    "Biological approach to OCD"
+   ],
+   "mins": 240
+  },
+  {
+   "id": "t5",
+   "name": "Approaches in psychology",
+   "papers": [
+    "7182/2"
+   ],
+   "sub": [
+    "Origins of psychology",
+    "Learning approaches",
+    "Cognitive approach",
+    "Biological approach",
+    "Psychodynamic approach",
+    "Humanistic psychology",
+    "Comparison of approaches"
+   ],
+   "mins": 330
+  },
+  {
+   "id": "t6",
+   "name": "Biopsychology",
+   "papers": [
+    "7182/2"
+   ],
+   "sub": [
+    "Nervous system and endocrine system",
+    "Neurons and synaptic transmission",
+    "Localisation of function",
+    "Plasticity and recovery",
+    "Split-brain research",
+    "Ways of studying the brain",
+    "Biological rhythms"
+   ],
+   "mins": 330
+  },
+  {
+   "id": "t7",
+   "name": "Research methods",
+   "papers": [
+    "7182/2"
+   ],
+   "sub": [
+    "Experimental methods",
+    "Observation, self-report and correlations",
+    "Scientific processes",
+    "Ethics",
+    "Data handling and analysis",
+    "Inferential testing"
+   ],
+   "mins": 285
+  },
+  {
+   "id": "t8",
+   "name": "Issues and debates",
+   "papers": [
+    "7182/3"
+   ],
+   "sub": [
+    "Gender and culture bias",
+    "Free will and determinism",
+    "Nature-nurture",
+    "Holism and reductionism",
+    "Idiographic and nomothetic",
+    "Ethical implications"
+   ],
+   "mins": 285
+  },
+  {
+   "id": "t9",
+   "name": "Relationships",
+   "papers": [
+    "7182/3"
+   ],
+   "sub": [
+    "Evolutionary explanations",
+    "Factors affecting attraction",
+    "Theories of romantic relationships",
+    "Virtual relationships",
+    "Parasocial relationships"
+   ],
+   "opt": "opt1:rel",
+   "mins": 240
+  },
+  {
+   "id": "t10",
+   "name": "Gender",
+   "papers": [
+    "7182/3"
+   ],
+   "sub": [
+    "Sex and gender",
+    "Androgyny",
+    "Role of chromosomes and hormones",
+    "Cognitive explanations",
+    "Psychodynamic explanation",
+    "Social learning theory",
+    "Atypical gender development"
+   ],
+   "opt": "opt1:gen",
+   "mins": 330
+  },
+  {
+   "id": "t11",
+   "name": "Cognition and development",
+   "papers": [
+    "7182/3"
+   ],
+   "sub": [
+    "Piaget",
+    "Vygotsky",
+    "Baillargeon",
+    "Development of social cognition",
+    "Mirror neuron system"
+   ],
+   "opt": "opt1:cog",
+   "mins": 240
+  },
+  {
+   "id": "t12",
+   "name": "Schizophrenia",
+   "papers": [
+    "7182/3"
+   ],
+   "sub": [
+    "Classification",
+    "Biological explanations",
+    "Psychological explanations",
+    "Drug therapy",
+    "Cognitive behaviour therapy and family therapy",
+    "Token economies",
+    "Interactionist approach"
+   ],
+   "opt": "opt2:sch",
+   "mins": 330
+  },
+  {
+   "id": "t13",
+   "name": "Eating behaviour",
+   "papers": [
+    "7182/3"
+   ],
+   "sub": [
+    "Food preferences",
+    "Neural and hormonal control",
+    "Biological explanations of anorexia",
+    "Psychological explanations of anorexia",
+    "Explanations of obesity"
+   ],
+   "opt": "opt2:eat",
+   "mins": 240
+  },
+  {
+   "id": "t14",
+   "name": "Stress",
+   "papers": [
+    "7182/3"
+   ],
+   "sub": [
+    "Physiology of stress",
+    "Role of stress in illness",
+    "Sources of stress",
+    "Measuring stress",
+    "Individual differences",
+    "Managing and coping with stress"
+   ],
+   "opt": "opt2:str",
+   "mins": 285
+  },
+  {
+   "id": "t15",
+   "name": "Aggression",
+   "papers": [
+    "7182/3"
+   ],
+   "sub": [
+    "Neural and hormonal mechanisms",
+    "Genetic factors",
+    "Ethological and evolutionary explanations",
+    "Social psychological explanations",
+    "Institutional aggression",
+    "Media influences"
+   ],
+   "opt": "opt3:agg",
+   "mins": 285
+  },
+  {
+   "id": "t16",
+   "name": "Forensic psychology",
+   "papers": [
+    "7182/3"
+   ],
+   "sub": [
+    "Offender profiling",
+    "Biological explanations of offending",
+    "Psychological explanations of offending",
+    "Dealing with offending behaviour"
+   ],
+   "opt": "opt3:for",
+   "mins": 180
+  },
+  {
+   "id": "t17",
+   "name": "Addiction",
+   "papers": [
+    "7182/3"
+   ],
+   "sub": [
+    "Describing addiction",
+    "Risk factors",
+    "Explanations for nicotine addiction",
+    "Explanations for gambling addiction",
+    "Reducing addiction",
+    "Theory of planned behaviour and Prochaska's model"
+   ],
+   "opt": "opt3:add",
+   "mins": 285
+  },
+  {
+   "id": "t18",
+   "name": "Past paper practice: Paper 1: Introductory topics in psychology",
+   "papers": [
+    "7182/1"
+   ],
+   "sub": [],
+   "practice": true,
+   "mins": 135
+  },
+  {
+   "id": "t19",
+   "name": "Past paper practice: Paper 2: Psychology in context",
+   "papers": [
+    "7182/2"
+   ],
+   "sub": [],
+   "practice": true,
+   "mins": 135
+  },
+  {
+   "id": "t20",
+   "name": "Past paper practice: Paper 3: Issues and options in psychology",
+   "papers": [
+    "7182/3"
+   ],
+   "sub": [],
+   "practice": true,
+   "mins": 135
+  }
+ ],
+ "unsure": [
+  "Spec version number not recorded."
+ ]
+}

@@ -1,0 +1,300 @@
+{
+ "format": 1,
+ "id": "aqa-economics-7136",
+ "board": "AQA",
+ "subject": "Economics",
+ "level": "A-level",
+ "code": "7136",
+ "title": "Economics",
+ "firstExam": 2017,
+ "specVersion": null,
+ "source": "https://www.aqa.org.uk/subjects/economics/a-level/economics-7136/specification",
+ "v": 1,
+ "series": "June 2027",
+ "hours": 60,
+ "options": [],
+ "papers": [
+  {
+   "id": "7136/1",
+   "name": "Paper 1: Markets and market failure",
+   "minutes": 120,
+   "date": "2027-05-10",
+   "start": "09:00"
+  },
+  {
+   "id": "7136/2",
+   "name": "Paper 2: National and international economy",
+   "minutes": 120,
+   "date": "2027-05-17",
+   "start": "13:30"
+  },
+  {
+   "id": "7136/3",
+   "name": "Paper 3: Economic principles and issues",
+   "minutes": 120,
+   "date": "2027-06-07",
+   "start": "09:00"
+  }
+ ],
+ "topics": [
+  {
+   "id": "t1",
+   "name": "Economic methodology and the economic problem",
+   "papers": [
+    "7136/1",
+    "7136/3"
+   ],
+   "sub": [
+    "Economic methodology",
+    "The nature and purpose of economic activity",
+    "Economic resources",
+    "Scarcity, choice and opportunity cost",
+    "Production possibility diagrams"
+   ],
+   "mins": 225
+  },
+  {
+   "id": "t2",
+   "name": "Individual economic decision making",
+   "papers": [
+    "7136/1",
+    "7136/3"
+   ],
+   "sub": [
+    "Consumer behaviour",
+    "Imperfect information",
+    "Aspects of behavioural economic theory",
+    "Behavioural economics and economic policy"
+   ],
+   "mins": 180
+  },
+  {
+   "id": "t3",
+   "name": "Price determination in a competitive market",
+   "papers": [
+    "7136/1",
+    "7136/3"
+   ],
+   "sub": [
+    "Demand and supply",
+    "Price, income and cross elasticities",
+    "Determination of equilibrium",
+    "Interrelationship between markets"
+   ],
+   "mins": 180
+  },
+  {
+   "id": "t4",
+   "name": "Production, costs and revenue",
+   "papers": [
+    "7136/1",
+    "7136/3"
+   ],
+   "sub": [
+    "Production and productivity",
+    "Specialisation and division of labour",
+    "Costs in the short and long run",
+    "Economies and diseconomies of scale",
+    "Marginal, average and total revenue",
+    "Profit",
+    "Technological change"
+   ],
+   "mins": 315
+  },
+  {
+   "id": "t5",
+   "name": "Perfect competition, imperfectly competitive markets and monopoly",
+   "papers": [
+    "7136/1",
+    "7136/3"
+   ],
+   "sub": [
+    "Market structures",
+    "Objectives of firms",
+    "Perfect competition",
+    "Monopolistic competition",
+    "Oligopoly",
+    "Monopoly and monopoly power",
+    "Price discrimination",
+    "Competition and efficiency",
+    "Contestable markets"
+   ],
+   "mins": 405
+  },
+  {
+   "id": "t6",
+   "name": "The labour market",
+   "papers": [
+    "7136/1",
+    "7136/3"
+   ],
+   "sub": [
+    "Demand for labour and marginal productivity",
+    "Supply of labour",
+    "Wage determination",
+    "Imperfect labour markets",
+    "Trade unions",
+    "Discrimination",
+    "National minimum wage"
+   ],
+   "mins": 315
+  },
+  {
+   "id": "t7",
+   "name": "The distribution of income and wealth: poverty and inequality",
+   "papers": [
+    "7136/1",
+    "7136/3"
+   ],
+   "sub": [
+    "Distribution of income and wealth",
+    "Problem of poverty",
+    "Government policies to alleviate poverty and reduce inequality"
+   ],
+   "mins": 135
+  },
+  {
+   "id": "t8",
+   "name": "The market mechanism, market failure and government intervention",
+   "papers": [
+    "7136/1",
+    "7136/3"
+   ],
+   "sub": [
+    "How markets allocate resources",
+    "Market failure",
+    "Public goods",
+    "Externalities",
+    "Merit and demerit goods",
+    "Market imperfections",
+    "Competition policy",
+    "Public ownership and privatisation",
+    "Government failure"
+   ],
+   "mins": 405
+  },
+  {
+   "id": "t9",
+   "name": "The measurement of macroeconomic performance",
+   "papers": [
+    "7136/2",
+    "7136/3"
+   ],
+   "sub": [
+    "Objectives of government policy",
+    "Macroeconomic indicators",
+    "Uses of index numbers"
+   ],
+   "mins": 135
+  },
+  {
+   "id": "t10",
+   "name": "How the macroeconomy works",
+   "papers": [
+    "7136/2",
+    "7136/3"
+   ],
+   "sub": [
+    "Circular flow of income",
+    "Aggregate demand and aggregate supply",
+    "The determinants of AD",
+    "AS in the short and long run",
+    "The multiplier"
+   ],
+   "mins": 225
+  },
+  {
+   "id": "t11",
+   "name": "Economic performance",
+   "papers": [
+    "7136/2",
+    "7136/3"
+   ],
+   "sub": [
+    "Economic growth and the economic cycle",
+    "Employment and unemployment",
+    "Inflation and deflation",
+    "Possible conflicts between objectives"
+   ],
+   "mins": 180
+  },
+  {
+   "id": "t12",
+   "name": "Financial markets and monetary policy",
+   "papers": [
+    "7136/2",
+    "7136/3"
+   ],
+   "sub": [
+    "Structure of financial markets and financial assets",
+    "Commercial and investment banks",
+    "Central banks and monetary policy",
+    "Regulation of the financial system"
+   ],
+   "mins": 180
+  },
+  {
+   "id": "t13",
+   "name": "Fiscal policy and supply-side policies",
+   "papers": [
+    "7136/2",
+    "7136/3"
+   ],
+   "sub": [
+    "Fiscal policy",
+    "Supply-side policies"
+   ],
+   "mins": 90
+  },
+  {
+   "id": "t14",
+   "name": "The international economy",
+   "papers": [
+    "7136/2",
+    "7136/3"
+   ],
+   "sub": [
+    "Globalisation",
+    "Trade",
+    "Balance of payments",
+    "Exchange rate systems",
+    "Economic growth and development"
+   ],
+   "mins": 225
+  },
+  {
+   "id": "t15",
+   "name": "Past paper practice: Paper 1: Markets and market failure",
+   "papers": [
+    "7136/1"
+   ],
+   "sub": [],
+   "practice": true,
+   "mins": 135
+  },
+  {
+   "id": "t16",
+   "name": "Past paper practice: Paper 2: National and international economy",
+   "papers": [
+    "7136/2"
+   ],
+   "sub": [],
+   "practice": true,
+   "mins": 135
+  },
+  {
+   "id": "t17",
+   "name": "Past paper practice: Paper 3: Economic principles and issues",
+   "papers": [
+    "7136/3"
+   ],
+   "sub": [],
+   "practice": true,
+   "mins": 135
+  }
+ ],
+ "unsure": [
+  "Some school documents quote 7135; that is the AS code. The A-level is 7136.",
+  "Spec version number not recorded."
+ ]
+}

@@ -1,0 +1,676 @@
+{
+ "format": 1,
+ "id": "pearson-englit-9et0",
+ "board": "Pearson",
+ "subject": "English Literature",
+ "level": "A-level",
+ "code": "9ET0",
+ "title": "English Literature",
+ "firstExam": 2017,
+ "specVersion": null,
+ "source": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/english-literature-2015.html",
+ "v": 1,
+ "series": "June 2027",
+ "hours": 60,
+ "options": [
+  {
+   "id": "shakes",
+   "name": "Paper 1 Shakespeare play",
+   "pick": 1,
+   "choices": [
+    {
+     "id": "ac",
+     "name": "Antony and Cleopatra"
+    },
+    {
+     "id": "ham",
+     "name": "Hamlet"
+    },
+    {
+     "id": "lear",
+     "name": "King Lear"
+    },
+    {
+     "id": "oth",
+     "name": "Othello"
+    },
+    {
+     "id": "mfm",
+     "name": "Measure for Measure"
+    },
+    {
+     "id": "shrew",
+     "name": "The Taming of the Shrew"
+    },
+    {
+     "id": "msnd",
+     "name": "A Midsummer Night's Dream"
+    },
+    {
+     "id": "twn",
+     "name": "Twelfth Night"
+    }
+   ]
+  },
+  {
+   "id": "drama",
+   "name": "Paper 1 other drama",
+   "pick": 1,
+   "choices": [
+    {
+     "id": "faust",
+     "name": "Doctor Faustus"
+    },
+    {
+     "id": "malfi",
+     "name": "The Duchess of Malfi"
+    },
+    {
+     "id": "streetcar",
+     "name": "A Streetcar Named Desire"
+    },
+    {
+     "id": "salesman",
+     "name": "Death of a Salesman"
+    },
+    {
+     "id": "rover",
+     "name": "The Rover"
+    },
+    {
+     "id": "stoops",
+     "name": "She Stoops to Conquer"
+    },
+    {
+     "id": "earnest",
+     "name": "The Importance of Being Earnest"
+    },
+    {
+     "id": "godot",
+     "name": "Waiting for Godot"
+    }
+   ]
+  },
+  {
+   "id": "prose",
+   "name": "Paper 2 prose theme",
+   "pick": 1,
+   "choices": [
+    {
+     "id": "child",
+     "name": "Childhood"
+    },
+    {
+     "id": "colon",
+     "name": "Colonisation and its Aftermath"
+    },
+    {
+     "id": "crime",
+     "name": "Crime and Detection"
+    },
+    {
+     "id": "sci",
+     "name": "Science and Society"
+    },
+    {
+     "id": "super",
+     "name": "The Supernatural"
+    },
+    {
+     "id": "women",
+     "name": "Women and Society"
+    }
+   ]
+  },
+  {
+   "id": "poetry",
+   "name": "Paper 3 specified poetry",
+   "pick": 1,
+   "choices": [
+    {
+     "id": "meta",
+     "name": "Metaphysical Poetry"
+    },
+    {
+     "id": "rom",
+     "name": "The Romantics"
+    },
+    {
+     "id": "vic",
+     "name": "The Victorians"
+    },
+    {
+     "id": "mod",
+     "name": "Modernism"
+    },
+    {
+     "id": "move",
+     "name": "The Movement"
+    }
+   ]
+  }
+ ],
+ "papers": [
+  {
+   "id": "9ET0/01",
+   "name": "Paper 1: Drama",
+   "minutes": 135,
+   "date": "2027-05-13",
+   "start": "09:00"
+  },
+  {
+   "id": "9ET0/02",
+   "name": "Paper 2: Prose",
+   "minutes": 75,
+   "date": "2027-05-20",
+   "start": "09:00"
+  },
+  {
+   "id": "9ET0/03",
+   "name": "Paper 3: Poetry",
+   "minutes": 135,
+   "date": "2027-05-28",
+   "start": "09:00"
+  }
+ ],
+ "topics": [
+  {
+   "id": "t1",
+   "name": "Antony and Cleopatra",
+   "papers": [
+    "9ET0/01"
+   ],
+   "sub": [
+    "Plot and structure",
+    "Characters",
+    "Themes",
+    "Context",
+    "Critical views",
+    "Key quotations",
+    "Critical Anthology essays"
+   ],
+   "opt": "shakes:ac",
+   "mins": 570
+  },
+  {
+   "id": "t2",
+   "name": "Hamlet",
+   "papers": [
+    "9ET0/01"
+   ],
+   "sub": [
+    "Plot and structure",
+    "Characters",
+    "Themes",
+    "Context",
+    "Critical views",
+    "Key quotations",
+    "Critical Anthology essays"
+   ],
+   "opt": "shakes:ham",
+   "mins": 570
+  },
+  {
+   "id": "t3",
+   "name": "King Lear",
+   "papers": [
+    "9ET0/01"
+   ],
+   "sub": [
+    "Plot and structure",
+    "Characters",
+    "Themes",
+    "Context",
+    "Critical views",
+    "Key quotations",
+    "Critical Anthology essays"
+   ],
+   "opt": "shakes:lear",
+   "mins": 570
+  },
+  {
+   "id": "t4",
+   "name": "Othello",
+   "papers": [
+    "9ET0/01"
+   ],
+   "sub": [
+    "Plot and structure",
+    "Characters",
+    "Themes",
+    "Context",
+    "Critical views",
+    "Key quotations",
+    "Critical Anthology essays"
+   ],
+   "opt": "shakes:oth",
+   "mins": 570
+  },
+  {
+   "id": "t5",
+   "name": "Measure for Measure",
+   "papers": [
+    "9ET0/01"
+   ],
+   "sub": [
+    "Plot and structure",
+    "Characters",
+    "Themes",
+    "Context",
+    "Critical views",
+    "Key quotations",
+    "Critical Anthology essays"
+   ],
+   "opt": "shakes:mfm",
+   "mins": 570
+  },
+  {
+   "id": "t6",
+   "name": "The Taming of the Shrew",
+   "papers": [
+    "9ET0/01"
+   ],
+   "sub": [
+    "Plot and structure",
+    "Characters",
+    "Themes",
+    "Context",
+    "Critical views",
+    "Key quotations",
+    "Critical Anthology essays"
+   ],
+   "opt": "shakes:shrew",
+   "mins": 570
+  },
+  {
+   "id": "t7",
+   "name": "A Midsummer Night's Dream",
+   "papers": [
+    "9ET0/01"
+   ],
+   "sub": [
+    "Plot and structure",
+    "Characters",
+    "Themes",
+    "Context",
+    "Critical views",
+    "Key quotations",
+    "Critical Anthology essays"
+   ],
+   "opt": "shakes:msnd",
+   "mins": 570
+  },
+  {
+   "id": "t8",
+   "name": "Twelfth Night",
+   "papers": [
+    "9ET0/01"
+   ],
+   "sub": [
+    "Plot and structure",
+    "Characters",
+    "Themes",
+    "Context",
+    "Critical views",
+    "Key quotations",
+    "Critical Anthology essays"
+   ],
+   "opt": "shakes:twn",
+   "mins": 570
+  },
+  {
+   "id": "t9",
+   "name": "Doctor Faustus",
+   "papers": [
+    "9ET0/01"
+   ],
+   "sub": [
+    "Plot and structure",
+    "Characters",
+    "Themes",
+    "Context",
+    "Critical views",
+    "Key quotations"
+   ],
+   "opt": "drama:faust",
+   "mins": 510
+  },
+  {
+   "id": "t10",
+   "name": "The Duchess of Malfi",
+   "papers": [
+    "9ET0/01"
+   ],
+   "sub": [
+    "Plot and structure",
+    "Characters",
+    "Themes",
+    "Context",
+    "Critical views",
+    "Key quotations"
+   ],
+   "opt": "drama:malfi",
+   "mins": 510
+  },
+  {
+   "id": "t11",
+   "name": "A Streetcar Named Desire",
+   "papers": [
+    "9ET0/01"
+   ],
+   "sub": [
+    "Plot and structure",
+    "Characters",
+    "Themes",
+    "Context",
+    "Critical views",
+    "Key quotations"
+   ],
+   "opt": "drama:streetcar",
+   "mins": 510
+  },
+  {
+   "id": "t12",
+   "name": "Death of a Salesman",
+   "papers": [
+    "9ET0/01"
+   ],
+   "sub": [
+    "Plot and structure",
+    "Characters",
+    "Themes",
+    "Context",
+    "Critical views",
+    "Key quotations"
+   ],
+   "opt": "drama:salesman",
+   "mins": 510
+  },
+  {
+   "id": "t13",
+   "name": "The Rover",
+   "papers": [
+    "9ET0/01"
+   ],
+   "sub": [
+    "Plot and structure",
+    "Characters",
+    "Themes",
+    "Context",
+    "Critical views",
+    "Key quotations"
+   ],
+   "opt": "drama:rover",
+   "mins": 510
+  },
+  {
+   "id": "t14",
+   "name": "She Stoops to Conquer",
+   "papers": [
+    "9ET0/01"
+   ],
+   "sub": [
+    "Plot and structure",
+    "Characters",
+    "Themes",
+    "Context",
+    "Critical views",
+    "Key quotations"
+   ],
+   "opt": "drama:stoops",
+   "mins": 510
+  },
+  {
+   "id": "t15",
+   "name": "The Importance of Being Earnest",
+   "papers": [
+    "9ET0/01"
+   ],
+   "sub": [
+    "Plot and structure",
+    "Characters",
+    "Themes",
+    "Context",
+    "Critical views",
+    "Key quotations"
+   ],
+   "opt": "drama:earnest",
+   "mins": 510
+  },
+  {
+   "id": "t16",
+   "name": "Waiting for Godot",
+   "papers": [
+    "9ET0/01"
+   ],
+   "sub": [
+    "Plot and structure",
+    "Characters",
+    "Themes",
+    "Context",
+    "Critical views",
+    "Key quotations"
+   ],
+   "opt": "drama:godot",
+   "mins": 510
+  },
+  {
+   "id": "t17",
+   "name": "Prose: Childhood",
+   "papers": [
+    "9ET0/02"
+   ],
+   "sub": [
+    "First text (pre-1900)",
+    "Second text",
+    "Comparing the pair",
+    "Context",
+    "Key quotations"
+   ],
+   "opt": "prose:child",
+   "mins": 720
+  },
+  {
+   "id": "t18",
+   "name": "Prose: Colonisation and its Aftermath",
+   "papers": [
+    "9ET0/02"
+   ],
+   "sub": [
+    "First text (pre-1900)",
+    "Second text",
+    "Comparing the pair",
+    "Context",
+    "Key quotations"
+   ],
+   "opt": "prose:colon",
+   "mins": 720
+  },
+  {
+   "id": "t19",
+   "name": "Prose: Crime and Detection",
+   "papers": [
+    "9ET0/02"
+   ],
+   "sub": [
+    "First text (pre-1900)",
+    "Second text",
+    "Comparing the pair",
+    "Context",
+    "Key quotations"
+   ],
+   "opt": "prose:crime",
+   "mins": 720
+  },
+  {
+   "id": "t20",
+   "name": "Prose: Science and Society",
+   "papers": [
+    "9ET0/02"
+   ],
+   "sub": [
+    "First text (pre-1900)",
+    "Second text",
+    "Comparing the pair",
+    "Context",
+    "Key quotations"
+   ],
+   "opt": "prose:sci",
+   "mins": 720
+  },
+  {
+   "id": "t21",
+   "name": "Prose: The Supernatural",
+   "papers": [
+    "9ET0/02"
+   ],
+   "sub": [
+    "First text (pre-1900)",
+    "Second text",
+    "Comparing the pair",
+    "Context",
+    "Key quotations"
+   ],
+   "opt": "prose:super",
+   "mins": 720
+  },
+  {
+   "id": "t22",
+   "name": "Prose: Women and Society",
+   "papers": [
+    "9ET0/02"
+   ],
+   "sub": [
+    "First text (pre-1900)",
+    "Second text",
+    "Comparing the pair",
+    "Context",
+    "Key quotations"
+   ],
+   "opt": "prose:women",
+   "mins": 720
+  },
+  {
+   "id": "t23",
+   "name": "Poems of the Decade (post-2000 poetry)",
+   "papers": [
+    "9ET0/03"
+   ],
+   "sub": [
+    "The 20 set poems",
+    "Comparing a set poem with an unseen poem"
+   ],
+   "mins": 570
+  },
+  {
+   "id": "t24",
+   "name": "Specified poetry: Metaphysical Poetry",
+   "papers": [
+    "9ET0/03"
+   ],
+   "sub": [
+    "The set poems",
+    "Poets and context",
+    "Themes and methods",
+    "Critical views"
+   ],
+   "opt": "poetry:meta",
+   "mins": 570
+  },
+  {
+   "id": "t25",
+   "name": "Specified poetry: The Romantics",
+   "papers": [
+    "9ET0/03"
+   ],
+   "sub": [
+    "The set poems",
+    "Poets and context",
+    "Themes and methods",
+    "Critical views"
+   ],
+   "opt": "poetry:rom",
+   "mins": 570
+  },
+  {
+   "id": "t26",
+   "name": "Specified poetry: The Victorians",
+   "papers": [
+    "9ET0/03"
+   ],
+   "sub": [
+    "The set poems",
+    "Poets and context",
+    "Themes and methods",
+    "Critical views"
+   ],
+   "opt": "poetry:vic",
+   "mins": 570
+  },
+  {
+   "id": "t27",
+   "name": "Specified poetry: Modernism",
+   "papers": [
+    "9ET0/03"
+   ],
+   "sub": [
+    "The set poems",
+    "Poets and context",
+    "Themes and methods",
+    "Critical views"
+   ],
+   "opt": "poetry:mod",
+   "mins": 570
+  },
+  {
+   "id": "t28",
+   "name": "Specified poetry: The Movement",
+   "papers": [
+    "9ET0/03"
+   ],
+   "sub": [
+    "The set poems",
+    "Poets and context",
+    "Themes and methods",
+    "Critical views"
+   ],
+   "opt": "poetry:move",
+   "mins": 570
+  },
+  {
+   "id": "t29",
+   "name": "Past paper practice: Paper 1: Drama",
+   "papers": [
+    "9ET0/01"
+   ],
+   "sub": [],
+   "practice": true,
+   "mins": 210
+  },
+  {
+   "id": "t30",
+   "name": "Past paper practice: Paper 2: Prose",
+   "papers": [
+    "9ET0/02"
+   ],
+   "sub": [],
+   "practice": true,
+   "mins": 210
+  },
+  {
+   "id": "t31",
+   "name": "Past paper practice: Paper 3: Poetry",
+   "papers": [
+    "9ET0/03"
+   ],
+   "sub": [],
+   "practice": true,
+   "mins": 210
+  }
+ ],
+ "unsure": [
+  "Set text and poetry lists written from memory of the 2015 spec. Check them against the current spec before publishing, as Pearson has updated some texts.",
+  "Paper 3 specified poetry can also be a named poet instead of a movement; named poets are not listed yet.",
+  "The coursework (non-exam assessment) is not included."
+ ]
+}
