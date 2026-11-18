@@ -2,7 +2,57 @@
 // topics: [name, papers examined on, 'sub; sub; sub', { opt, w }]
 const LIT_TEXT = 'Plot and structure; Characters; Themes; Context; Critical views; Key quotations';
 
+const FM_OPTS = [
+  ['3A', 'fp1', 'Further Pure Mathematics 1', 'Vectors; Conic sections 1; Conic sections 2; Inequalities; The t-formulae; Taylor series; Methods in calculus; Numerical methods; Reducible differential equations'],
+  ['3B', 'fs1', 'Further Statistics 1', null],
+  ['3C', 'fm1', 'Further Mechanics 1', null],
+  ['3D', 'd1', 'Decision Mathematics 1', 'Algorithms and graph theory; Algorithms on graphs; Algorithms on graphs II (route inspection, travelling salesman); Critical path analysis; Linear programming'],
+  ['4A', 'fp2', 'Further Pure Mathematics 2', 'Number theory; Groups; Further complex numbers; Recurrence relations; Matrix algebra'],
+  ['4B', 'fs2', 'Further Statistics 2', 'Linear regression; Continuous probability distributions; Correlation; Combinations of random variables; Estimation, confidence intervals and tests using a normal distribution; Other hypothesis tests and confidence intervals; Confidence intervals and tests using the t-distribution'],
+  ['4C', 'fm2', 'Further Mechanics 2', 'Motion in a circle; Centres of mass of plane figures; Further centres of mass; Further dynamics; Further kinematics'],
+  ['4D', 'd2', 'Decision Mathematics 2', 'Transportation problems; Allocation (assignment) problems; Flows in networks; Dynamic programming; Game theory; Recurrence relations; Decision analysis'],
+];
+
 module.exports = [
+  {
+    id: 'pearson-further-maths-9fm0', board: 'Pearson', subject: 'Further Mathematics', title: 'Further Mathematics A', code: '9FM0', firstExam: 2019, v: 1,
+    url: 'https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/mathematics-2017.html',
+    options: [{ id: 'opt', name: 'Your two option papers', pick: 2, choices: FM_OPTS.map(([, id, n]) => [id, n]) }],
+    papers: [
+      ['9FM0/01', 'Paper 1: Core Pure Mathematics 1'], ['9FM0/02', 'Paper 2: Core Pure Mathematics 2'],
+      ...FM_OPTS.map(([c, id, n]) => [`9FM0/${c}`, `Paper ${c}: ${n}`, { opt: `opt:${id}` }]),
+    ],
+    topics: [
+      ['Proof', '01,02', 'Proof by induction'],
+      ['Complex numbers', '01,02', 'Arithmetic with complex numbers; Argand diagrams and loci; Modulus-argument form; De Moivre\'s theorem; Roots of unity and complex roots; Exponential form'],
+      ['Matrices', '01,02', 'Matrix arithmetic; Determinants and inverses; Linear transformations; Invariant points and lines; Solving systems of equations'],
+      ['Further algebra and functions', '01,02', 'Roots of polynomials; Summing series (method of differences, standard results); Maclaurin series'],
+      ['Further calculus', '01,02', 'Volumes of revolution; Improper integrals; Mean value of a function; Integrating with partial fractions; Inverse trigonometric and hyperbolic integrals'],
+      ['Further vectors', '01,02', 'Vector and Cartesian equations of lines and planes; Scalar product; Angles between lines and planes; Shortest distances'],
+      ['Polar coordinates', '01,02', 'Polar curves; Areas enclosed by polar curves; Tangents parallel and perpendicular to the initial line'],
+      ['Hyperbolic functions', '01,02', 'Definitions and graphs; Identities; Inverse hyperbolic functions; Calculus with hyperbolic functions'],
+      ['Differential equations', '01,02', 'First order (integrating factor); Second order with constant coefficients; Simple harmonic motion; Damped and forced oscillations; Coupled first order equations'],
+      // Further Statistics 1 and Further Mechanics 1 section by section (the school's pair); the rest as one item each
+      ['FS1: Discrete probability distributions', '3B', 'Expectation and variance of discrete random variables; Functions of a random variable', { opt: 'opt:fs1' }],
+      ['FS1: Poisson and binomial distributions', '3B', 'Poisson distribution; Adding Poisson distributions; Poisson approximation to the binomial', { opt: 'opt:fs1' }],
+      ['FS1: Geometric and negative binomial distributions', '3B', 'Geometric distribution; Negative binomial distribution; Mean and variance', { opt: 'opt:fs1' }],
+      ['FS1: Hypothesis testing', '3B', 'Tests for the mean of a Poisson distribution; Tests for geometric distributions; Critical regions', { opt: 'opt:fs1' }],
+      ['FS1: Central limit theorem', '3B', 'Applying the central limit theorem', { opt: 'opt:fs1' }],
+      ['FS1: Chi-squared tests', '3B', 'Goodness of fit; Degrees of freedom; Contingency tables', { opt: 'opt:fs1' }],
+      ['FS1: Probability generating functions', '3B', 'PGFs of standard distributions; Mean and variance from a PGF; Sums of independent random variables', { opt: 'opt:fs1' }],
+      ['FS1: Quality of tests', '3B', 'Type I and Type II errors; Size and power of a test; Power functions', { opt: 'opt:fs1' }],
+      ['FM1: Momentum and impulse', '3C', 'Impulse and momentum in one and two dimensions; Conservation of momentum', { opt: 'opt:fm1' }],
+      ['FM1: Work, energy and power', '3C', 'Work done; Kinetic and potential energy; Work-energy principle; Power', { opt: 'opt:fm1' }],
+      ['FM1: Elastic strings and springs', '3C', 'Hooke\'s law; Elastic potential energy; Problems using energy', { opt: 'opt:fm1' }],
+      ['FM1: Elastic collisions in one dimension', '3C', 'Newton\'s law of restitution; Direct impact with a wall; Loss of kinetic energy; Successive impacts', { opt: 'opt:fm1' }],
+      ['FM1: Elastic collisions in two dimensions', '3C', 'Oblique impact with a surface; Oblique impact of spheres', { opt: 'opt:fm1' }],
+      ...FM_OPTS.filter(([, , , sub]) => sub).map(([c, id, n, sub]) => [n, c, sub, { opt: `opt:${id}`, w: 18 }]),
+    ],
+    unsure: [
+      'Option sub-topic wording is from memory of the 2017 spec; check against the Pearson spec.',
+      'Pearson limits which option pairs you can take together (e.g. a "2" paper usually needs its "1" paper); the picker doesn\'t enforce that.',
+    ],
+  },
   {
     id: 'pearson-economics-a-9ec0', board: 'Pearson', subject: 'Economics', title: 'Economics A', code: '9EC0', firstExam: 2017, v: 1,
     url: 'https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/economics-a-2015.html',

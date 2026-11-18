@@ -56,6 +56,19 @@
    "hasOptions": true
   },
   {
+   "id": "pearson-further-maths-9fm0",
+   "board": "Pearson",
+   "subject": "Further Mathematics",
+   "title": "Further Mathematics A",
+   "level": "A-level",
+   "code": "9FM0",
+   "series": "June 2027",
+   "v": 1,
+   "file": "packs/pearson-further-maths-9fm0.json",
+   "papers": 10,
+   "hasOptions": true
+  },
+  {
    "id": "pearson-maths-9ma0",
    "board": "Pearson",
    "subject": "Mathematics",

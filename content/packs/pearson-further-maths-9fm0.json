@@ -1,0 +1,1557 @@
+{
+ "format": 1,
+ "id": "pearson-further-maths-9fm0",
+ "board": "Pearson",
+ "subject": "Further Mathematics",
+ "level": "A-level",
+ "code": "9FM0",
+ "title": "Further Mathematics A",
+ "firstExam": 2019,
+ "specVersion": null,
+ "source": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/mathematics-2017.html",
+ "v": 1,
+ "series": "June 2027",
+ "hours": 60,
+ "options": [
+  {
+   "id": "opt",
+   "name": "Your two option papers",
+   "pick": 2,
+   "choices": [
+    {
+     "id": "fp1",
+     "name": "Further Pure Mathematics 1"
+    },
+    {
+     "id": "fs1",
+     "name": "Further Statistics 1"
+    },
+    {
+     "id": "fm1",
+     "name": "Further Mechanics 1"
+    },
+    {
+     "id": "d1",
+     "name": "Decision Mathematics 1"
+    },
+    {
+     "id": "fp2",
+     "name": "Further Pure Mathematics 2"
+    },
+    {
+     "id": "fs2",
+     "name": "Further Statistics 2"
+    },
+    {
+     "id": "fm2",
+     "name": "Further Mechanics 2"
+    },
+    {
+     "id": "d2",
+     "name": "Decision Mathematics 2"
+    }
+   ]
+  }
+ ],
+ "papers": [
+  {
+   "id": "9FM0/01",
+   "name": "Paper 1: Core Pure Mathematics 1",
+   "minutes": 90,
+   "date": "2027-05-12",
+   "start": "13:30",
+   "marks": 75
+  },
+  {
+   "id": "9FM0/02",
+   "name": "Paper 2: Core Pure Mathematics 2",
+   "minutes": 90,
+   "date": "2027-05-20",
+   "start": "13:30",
+   "marks": 75
+  },
+  {
+   "id": "9FM0/3A",
+   "name": "Paper 3A: Further Pure Mathematics 1",
+   "minutes": 90,
+   "date": "2027-06-18",
+   "start": "13:30",
+   "opt": "opt:fp1",
+   "marks": 75
+  },
+  {
+   "id": "9FM0/3B",
+   "name": "Paper 3B: Further Statistics 1",
+   "minutes": 90,
+   "date": "2027-06-10",
+   "start": "13:30",
+   "opt": "opt:fs1",
+   "marks": 75
+  },
+  {
+   "id": "9FM0/3C",
+   "name": "Paper 3C: Further Mechanics 1",
+   "minutes": 90,
+   "date": "2027-05-25",
+   "start": "13:30",
+   "opt": "opt:fm1",
+   "marks": 75
+  },
+  {
+   "id": "9FM0/3D",
+   "name": "Paper 3D: Decision Mathematics 1",
+   "minutes": 90,
+   "date": "2027-06-15",
+   "start": "13:30",
+   "opt": "opt:d1",
+   "marks": 75
+  },
+  {
+   "id": "9FM0/4A",
+   "name": "Paper 4A: Further Pure Mathematics 2",
+   "minutes": 90,
+   "date": "2027-06-21",
+   "start": "13:30",
+   "opt": "opt:fp2",
+   "marks": 75
+  },
+  {
+   "id": "9FM0/4B",
+   "name": "Paper 4B: Further Statistics 2",
+   "minutes": 90,
+   "date": "2027-06-21",
+   "start": "13:30",
+   "opt": "opt:fs2",
+   "marks": 75
+  },
+  {
+   "id": "9FM0/4C",
+   "name": "Paper 4C: Further Mechanics 2",
+   "minutes": 90,
+   "date": "2027-06-21",
+   "start": "13:30",
+   "opt": "opt:fm2",
+   "marks": 75
+  },
+  {
+   "id": "9FM0/4D",
+   "name": "Paper 4D: Decision Mathematics 2",
+   "minutes": 90,
+   "date": "2027-06-21",
+   "start": "13:30",
+   "opt": "opt:d2",
+   "marks": 75
+  }
+ ],
+ "topics": [
+  {
+   "id": "t1",
+   "name": "Proof",
+   "papers": [
+    "9FM0/01",
+    "9FM0/02"
+   ],
+   "sub": [
+    "Proof by induction"
+   ],
+   "mins": 90
+  },
+  {
+   "id": "t2",
+   "name": "Complex numbers",
+   "papers": [
+    "9FM0/01",
+    "9FM0/02"
+   ],
+   "sub": [
+    "Arithmetic with complex numbers",
+    "Argand diagrams and loci",
+    "Modulus-argument form",
+    "De Moivre's theorem",
+    "Roots of unity and complex roots",
+    "Exponential form"
+   ],
+   "mins": 255
+  },
+  {
+   "id": "t3",
+   "name": "Matrices",
+   "papers": [
+    "9FM0/01",
+    "9FM0/02"
+   ],
+   "sub": [
+    "Matrix arithmetic",
+    "Determinants and inverses",
+    "Linear transformations",
+    "Invariant points and lines",
+    "Solving systems of equations"
+   ],
+   "mins": 210
+  },
+  {
+   "id": "t4",
+   "name": "Further algebra and functions",
+   "papers": [
+    "9FM0/01",
+    "9FM0/02"
+   ],
+   "sub": [
+    "Roots of polynomials",
+    "Summing series (method of differences, standard results)",
+    "Maclaurin series"
+   ],
+   "mins": 120
+  },
+  {
+   "id": "t5",
+   "name": "Further calculus",
+   "papers": [
+    "9FM0/01",
+    "9FM0/02"
+   ],
+   "sub": [
+    "Volumes of revolution",
+    "Improper integrals",
+    "Mean value of a function",
+    "Integrating with partial fractions",
+    "Inverse trigonometric and hyperbolic integrals"
+   ],
+   "mins": 210
+  },
+  {
+   "id": "t6",
+   "name": "Further vectors",
+   "papers": [
+    "9FM0/01",
+    "9FM0/02"
+   ],
+   "sub": [
+    "Vector and Cartesian equations of lines and planes",
+    "Scalar product",
+    "Angles between lines and planes",
+    "Shortest distances"
+   ],
+   "mins": 165
+  },
+  {
+   "id": "t7",
+   "name": "Polar coordinates",
+   "papers": [
+    "9FM0/01",
+    "9FM0/02"
+   ],
+   "sub": [
+    "Polar curves",
+    "Areas enclosed by polar curves",
+    "Tangents parallel and perpendicular to the initial line"
+   ],
+   "mins": 120
+  },
+  {
+   "id": "t8",
+   "name": "Hyperbolic functions",
+   "papers": [
+    "9FM0/01",
+    "9FM0/02"
+   ],
+   "sub": [
+    "Definitions and graphs",
+    "Identities",
+    "Inverse hyperbolic functions",
+    "Calculus with hyperbolic functions"
+   ],
+   "mins": 165
+  },
+  {
+   "id": "t9",
+   "name": "Differential equations",
+   "papers": [
+    "9FM0/01",
+    "9FM0/02"
+   ],
+   "sub": [
+    "First order (integrating factor)",
+    "Second order with constant coefficients",
+    "Simple harmonic motion",
+    "Damped and forced oscillations",
+    "Coupled first order equations"
+   ],
+   "mins": 210
+  },
+  {
+   "id": "t10",
+   "name": "FS1: Discrete probability distributions",
+   "papers": [
+    "9FM0/3B"
+   ],
+   "sub": [
+    "Expectation and variance of discrete random variables",
+    "Functions of a random variable"
+   ],
+   "opt": "opt:fs1",
+   "mins": 90
+  },
+  {
+   "id": "t11",
+   "name": "FS1: Poisson and binomial distributions",
+   "papers": [
+    "9FM0/3B"
+   ],
+   "sub": [
+    "Poisson distribution",
+    "Adding Poisson distributions",
+    "Poisson approximation to the binomial"
+   ],
+   "opt": "opt:fs1",
+   "mins": 120
+  },
+  {
+   "id": "t12",
+   "name": "FS1: Geometric and negative binomial distributions",
+   "papers": [
+    "9FM0/3B"
+   ],
+   "sub": [
+    "Geometric distribution",
+    "Negative binomial distribution",
+    "Mean and variance"
+   ],
+   "opt": "opt:fs1",
+   "mins": 120
+  },
+  {
+   "id": "t13",
+   "name": "FS1: Hypothesis testing",
+   "papers": [
+    "9FM0/3B"
+   ],
+   "sub": [
+    "Tests for the mean of a Poisson distribution",
+    "Tests for geometric distributions",
+    "Critical regions"
+   ],
+   "opt": "opt:fs1",
+   "mins": 120
+  },
+  {
+   "id": "t14",
+   "name": "FS1: Central limit theorem",
+   "papers": [
+    "9FM0/3B"
+   ],
+   "sub": [
+    "Applying the central limit theorem"
+   ],
+   "opt": "opt:fs1",
+   "mins": 90
+  },
+  {
+   "id": "t15",
+   "name": "FS1: Chi-squared tests",
+   "papers": [
+    "9FM0/3B"
+   ],
+   "sub": [
+    "Goodness of fit",
+    "Degrees of freedom",
+    "Contingency tables"
+   ],
+   "opt": "opt:fs1",
+   "mins": 120
+  },
+  {
+   "id": "t16",
+   "name": "FS1: Probability generating functions",
+   "papers": [
+    "9FM0/3B"
+   ],
+   "sub": [
+    "PGFs of standard distributions",
+    "Mean and variance from a PGF",
+    "Sums of independent random variables"
+   ],
+   "opt": "opt:fs1",
+   "mins": 120
+  },
+  {
+   "id": "t17",
+   "name": "FS1: Quality of tests",
+   "papers": [
+    "9FM0/3B"
+   ],
+   "sub": [
+    "Type I and Type II errors",
+    "Size and power of a test",
+    "Power functions"
+   ],
+   "opt": "opt:fs1",
+   "mins": 120
+  },
+  {
+   "id": "t18",
+   "name": "FM1: Momentum and impulse",
+   "papers": [
+    "9FM0/3C"
+   ],
+   "sub": [
+    "Impulse and momentum in one and two dimensions",
+    "Conservation of momentum"
+   ],
+   "opt": "opt:fm1",
+   "mins": 90
+  },
+  {
+   "id": "t19",
+   "name": "FM1: Work, energy and power",
+   "papers": [
+    "9FM0/3C"
+   ],
+   "sub": [
+    "Work done",
+    "Kinetic and potential energy",
+    "Work-energy principle",
+    "Power"
+   ],
+   "opt": "opt:fm1",
+   "mins": 165
+  },
+  {
+   "id": "t20",
+   "name": "FM1: Elastic strings and springs",
+   "papers": [
+    "9FM0/3C"
+   ],
+   "sub": [
+    "Hooke's law",
+    "Elastic potential energy",
+    "Problems using energy"
+   ],
+   "opt": "opt:fm1",
+   "mins": 120
+  },
+  {
+   "id": "t21",
+   "name": "FM1: Elastic collisions in one dimension",
+   "papers": [
+    "9FM0/3C"
+   ],
+   "sub": [
+    "Newton's law of restitution",
+    "Direct impact with a wall",
+    "Loss of kinetic energy",
+    "Successive impacts"
+   ],
+   "opt": "opt:fm1",
+   "mins": 165
+  },
+  {
+   "id": "t22",
+   "name": "FM1: Elastic collisions in two dimensions",
+   "papers": [
+    "9FM0/3C"
+   ],
+   "sub": [
+    "Oblique impact with a surface",
+    "Oblique impact of spheres"
+   ],
+   "opt": "opt:fm1",
+   "mins": 90
+  },
+  {
+   "id": "t23",
+   "name": "Further Pure Mathematics 1",
+   "papers": [
+    "9FM0/3A"
+   ],
+   "sub": [
+    "Vectors",
+    "Conic sections 1",
+    "Conic sections 2",
+    "Inequalities",
+    "The t-formulae",
+    "Taylor series",
+    "Methods in calculus",
+    "Numerical methods",
+    "Reducible differential equations"
+   ],
+   "opt": "opt:fp1",
+   "mins": 765
+  },
+  {
+   "id": "t24",
+   "name": "Decision Mathematics 1",
+   "papers": [
+    "9FM0/3D"
+   ],
+   "sub": [
+    "Algorithms and graph theory",
+    "Algorithms on graphs",
+    "Algorithms on graphs II (route inspection, travelling salesman)",
+    "Critical path analysis",
+    "Linear programming"
+   ],
+   "opt": "opt:d1",
+   "mins": 765
+  },
+  {
+   "id": "t25",
+   "name": "Further Pure Mathematics 2",
+   "papers": [
+    "9FM0/4A"
+   ],
+   "sub": [
+    "Number theory",
+    "Groups",
+    "Further complex numbers",
+    "Recurrence relations",
+    "Matrix algebra"
+   ],
+   "opt": "opt:fp2",
+   "mins": 765
+  },
+  {
+   "id": "t26",
+   "name": "Further Statistics 2",
+   "papers": [
+    "9FM0/4B"
+   ],
+   "sub": [
+    "Linear regression",
+    "Continuous probability distributions",
+    "Correlation",
+    "Combinations of random variables",
+    "Estimation, confidence intervals and tests using a normal distribution",
+    "Other hypothesis tests and confidence intervals",
+    "Confidence intervals and tests using the t-distribution"
+   ],
+   "opt": "opt:fs2",
+   "mins": 765
+  },
+  {
+   "id": "t27",
+   "name": "Further Mechanics 2",
+   "papers": [
+    "9FM0/4C"
+   ],
+   "sub": [
+    "Motion in a circle",
+    "Centres of mass of plane figures",
+    "Further centres of mass",
+    "Further dynamics",
+    "Further kinematics"
+   ],
+   "opt": "opt:fm2",
+   "mins": 765
+  },
+  {
+   "id": "t28",
+   "name": "Decision Mathematics 2",
+   "papers": [
+    "9FM0/4D"
+   ],
+   "sub": [
+    "Transportation problems",
+    "Allocation (assignment) problems",
+    "Flows in networks",
+    "Dynamic programming",
+    "Game theory",
+    "Recurrence relations",
+    "Decision analysis"
+   ],
+   "opt": "opt:d2",
+   "mins": 765
+  },
+  {
+   "id": "t29",
+   "name": "Past paper practice: Paper 1: Core Pure Mathematics 1",
+   "papers": [
+    "9FM0/01"
+   ],
+   "sub": [],
+   "practice": true,
+   "mins": 120
+  },
+  {
+   "id": "t30",
+   "name": "Past paper practice: Paper 2: Core Pure Mathematics 2",
+   "papers": [
+    "9FM0/02"
+   ],
+   "sub": [],
+   "practice": true,
+   "mins": 120
+  },
+  {
+   "id": "t31",
+   "name": "Past paper practice: Paper 3A: Further Pure Mathematics 1",
+   "papers": [
+    "9FM0/3A"
+   ],
+   "sub": [],
+   "practice": true,
+   "opt": "opt:fp1",
+   "mins": 120
+  },
+  {
+   "id": "t32",
+   "name": "Past paper practice: Paper 3B: Further Statistics 1",
+   "papers": [
+    "9FM0/3B"
+   ],
+   "sub": [],
+   "practice": true,
+   "opt": "opt:fs1",
+   "mins": 120
+  },
+  {
+   "id": "t33",
+   "name": "Past paper practice: Paper 3C: Further Mechanics 1",
+   "papers": [
+    "9FM0/3C"
+   ],
+   "sub": [],
+   "practice": true,
+   "opt": "opt:fm1",
+   "mins": 120
+  },
+  {
+   "id": "t34",
+   "name": "Past paper practice: Paper 3D: Decision Mathematics 1",
+   "papers": [
+    "9FM0/3D"
+   ],
+   "sub": [],
+   "practice": true,
+   "opt": "opt:d1",
+   "mins": 120
+  },
+  {
+   "id": "t35",
+   "name": "Past paper practice: Paper 4A: Further Pure Mathematics 2",
+   "papers": [
+    "9FM0/4A"
+   ],
+   "sub": [],
+   "practice": true,
+   "opt": "opt:fp2",
+   "mins": 120
+  },
+  {
+   "id": "t36",
+   "name": "Past paper practice: Paper 4B: Further Statistics 2",
+   "papers": [
+    "9FM0/4B"
+   ],
+   "sub": [],
+   "practice": true,
+   "opt": "opt:fs2",
+   "mins": 120
+  },
+  {
+   "id": "t37",
+   "name": "Past paper practice: Paper 4C: Further Mechanics 2",
+   "papers": [
+    "9FM0/4C"
+   ],
+   "sub": [],
+   "practice": true,
+   "opt": "opt:fm2",
+   "mins": 120
+  },
+  {
+   "id": "t38",
+   "name": "Past paper practice: Paper 4D: Decision Mathematics 2",
+   "papers": [
+    "9FM0/4D"
+   ],
+   "sub": [],
+   "practice": true,
+   "opt": "opt:d2",
+   "mins": 120
+  }
+ ],
+ "pastPapers": [
+  {
+   "id": "2026-06",
+   "name": "June 2026",
+   "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/A-level/grade-boundaries-june-2026-notional-component-gce.pdf",
+   "papers": {
+    "9FM0/01": {
+     "max": 75,
+     "A*": 67,
+     "A": 60,
+     "B": 51,
+     "C": 42,
+     "D": 33,
+     "E": 25
+    },
+    "9FM0/02": {
+     "max": 75,
+     "A*": 69,
+     "A": 62,
+     "B": 53,
+     "C": 44,
+     "D": 35,
+     "E": 26
+    },
+    "9FM0/3A": {
+     "max": 75,
+     "A*": 69,
+     "A": 63,
+     "B": 53,
+     "C": 43,
+     "D": 33,
+     "E": 23
+    },
+    "9FM0/3B": {
+     "max": 75,
+     "A*": 70,
+     "A": 66,
+     "B": 56,
+     "C": 46,
+     "D": 37,
+     "E": 28
+    },
+    "9FM0/3C": {
+     "max": 75,
+     "A*": 68,
+     "A": 62,
+     "B": 52,
+     "C": 43,
+     "D": 34,
+     "E": 25
+    },
+    "9FM0/3D": {
+     "max": 75,
+     "A*": 59,
+     "A": 52,
+     "B": 43,
+     "C": 34,
+     "D": 26,
+     "E": 18
+    },
+    "9FM0/4A": {
+     "max": 75,
+     "A*": 58,
+     "A": 52,
+     "B": 43,
+     "C": 34,
+     "D": 25,
+     "E": 17
+    },
+    "9FM0/4B": {
+     "max": 75,
+     "A*": 65,
+     "A": 57,
+     "B": 49,
+     "C": 41,
+     "D": 33,
+     "E": 26
+    },
+    "9FM0/4C": {
+     "max": 75,
+     "A*": 60,
+     "A": 52,
+     "B": 43,
+     "C": 35,
+     "D": 27,
+     "E": 19
+    },
+    "9FM0/4D": {
+     "max": 75,
+     "A*": 67,
+     "A": 62,
+     "B": 51,
+     "C": 40,
+     "D": 30,
+     "E": 20
+    }
+   }
+  },
+  {
+   "id": "2025-06",
+   "name": "June 2025",
+   "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/A-level/grade-boundaries-june-2025-notional-component-gce.pdf",
+   "papers": {
+    "9FM0/01": {
+     "max": 75,
+     "A*": 62,
+     "A": 53,
+     "B": 45,
+     "C": 37,
+     "D": 29,
+     "E": 21
+    },
+    "9FM0/02": {
+     "max": 75,
+     "A*": 70,
+     "A": 61,
+     "B": 52,
+     "C": 43,
+     "D": 34,
+     "E": 26
+    },
+    "9FM0/3A": {
+     "max": 75,
+     "A*": 62,
+     "A": 57,
+     "B": 47,
+     "C": 38,
+     "D": 29,
+     "E": 20
+    },
+    "9FM0/3B": {
+     "max": 75,
+     "A*": 58,
+     "A": 51,
+     "B": 44,
+     "C": 37,
+     "D": 31,
+     "E": 25
+    },
+    "9FM0/3C": {
+     "max": 75,
+     "A*": 72,
+     "A": 68,
+     "B": 57,
+     "C": 46,
+     "D": 35,
+     "E": 25
+    },
+    "9FM0/3D": {
+     "max": 75,
+     "A*": 52,
+     "A": 46,
+     "B": 38,
+     "C": 30,
+     "D": 22,
+     "E": 14
+    },
+    "9FM0/4A": {
+     "max": 75,
+     "A*": 68,
+     "A": 62,
+     "B": 50,
+     "C": 39,
+     "D": 28,
+     "E": 17
+    },
+    "9FM0/4B": {
+     "max": 75,
+     "A*": 54,
+     "A": 50,
+     "B": 43,
+     "C": 36,
+     "D": 29,
+     "E": 23
+    },
+    "9FM0/4C": {
+     "max": 75,
+     "A*": 58,
+     "A": 51,
+     "B": 43,
+     "C": 35,
+     "D": 27,
+     "E": 19
+    },
+    "9FM0/4D": {
+     "max": 75,
+     "A*": 57,
+     "A": 52,
+     "B": 42,
+     "C": 33,
+     "D": 24,
+     "E": 15
+    }
+   }
+  },
+  {
+   "id": "2024-06",
+   "name": "June 2024",
+   "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/A-level/grade-boundaries-june-2024-notional-component-gce.pdf",
+   "papers": {
+    "9FM0/01": {
+     "max": 75,
+     "A*": 67,
+     "A": 60,
+     "B": 51,
+     "C": 42,
+     "D": 33,
+     "E": 25
+    },
+    "9FM0/02": {
+     "max": 75,
+     "A*": 63,
+     "A": 56,
+     "B": 48,
+     "C": 40,
+     "D": 32,
+     "E": 25
+    },
+    "9FM0/3A": {
+     "max": 75,
+     "A*": 72,
+     "A": 69,
+     "B": 55,
+     "C": 41,
+     "D": 27,
+     "E": 14
+    },
+    "9FM0/3B": {
+     "max": 75,
+     "A*": 58,
+     "A": 49,
+     "B": 41,
+     "C": 33,
+     "D": 26,
+     "E": 19
+    },
+    "9FM0/3C": {
+     "max": 75,
+     "A*": 68,
+     "A": 61,
+     "B": 51,
+     "C": 41,
+     "D": 31,
+     "E": 22
+    },
+    "9FM0/3D": {
+     "max": 75,
+     "A*": 51,
+     "A": 41,
+     "B": 33,
+     "C": 25,
+     "D": 17,
+     "E": 10
+    },
+    "9FM0/4A": {
+     "max": 75,
+     "A*": 67,
+     "A": 55,
+     "B": 45,
+     "C": 35,
+     "D": 25,
+     "E": 15
+    },
+    "9FM0/4B": {
+     "max": 75,
+     "A*": 53,
+     "A": 47,
+     "B": 39,
+     "C": 31,
+     "D": 23,
+     "E": 15
+    },
+    "9FM0/4C": {
+     "max": 75,
+     "A*": 56,
+     "A": 48,
+     "B": 40,
+     "C": 32,
+     "D": 24,
+     "E": 17
+    },
+    "9FM0/4D": {
+     "max": 75,
+     "A*": 62,
+     "A": 57,
+     "B": 46,
+     "C": 36,
+     "D": 26,
+     "E": 16
+    }
+   }
+  },
+  {
+   "id": "2023-06",
+   "name": "June 2023",
+   "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/A-level/2306-gce-notional-component-grade-boundaries.pdf",
+   "papers": {
+    "9FM0/01": {
+     "max": 75,
+     "A*": 51,
+     "A": 43,
+     "B": 35,
+     "C": 28,
+     "D": 21,
+     "E": 14
+    },
+    "9FM0/02": {
+     "max": 75,
+     "A*": 56,
+     "A": 46,
+     "B": 38,
+     "C": 31,
+     "D": 24,
+     "E": 17
+    },
+    "9FM0/3A": {
+     "max": 75,
+     "A*": 64,
+     "A": 60,
+     "B": 50,
+     "C": 40,
+     "D": 30,
+     "E": 20
+    },
+    "9FM0/3B": {
+     "max": 75,
+     "A*": 60,
+     "A": 52,
+     "B": 43,
+     "C": 35,
+     "D": 27,
+     "E": 19
+    },
+    "9FM0/3C": {
+     "max": 75,
+     "A*": 58,
+     "A": 48,
+     "B": 40,
+     "C": 32,
+     "D": 24,
+     "E": 17
+    },
+    "9FM0/3D": {
+     "max": 75,
+     "A*": 60,
+     "A": 46,
+     "B": 38,
+     "C": 30,
+     "D": 23,
+     "E": 16
+    },
+    "9FM0/4A": {
+     "max": 75,
+     "A*": 60,
+     "A": 50,
+     "B": 41,
+     "C": 32,
+     "D": 23,
+     "E": 15
+    },
+    "9FM0/4B": {
+     "max": 75,
+     "A*": 60,
+     "A": 53,
+     "B": 43,
+     "C": 34,
+     "D": 25,
+     "E": 16
+    },
+    "9FM0/4C": {
+     "max": 75,
+     "A*": 67,
+     "A": 56,
+     "B": 47,
+     "C": 38,
+     "D": 29,
+     "E": 20
+    },
+    "9FM0/4D": {
+     "max": 75,
+     "A*": 63,
+     "A": 53,
+     "B": 43,
+     "C": 33,
+     "D": 23,
+     "E": 14
+    }
+   }
+  },
+  {
+   "id": "2022-06",
+   "name": "June 2022",
+   "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/A-level/2206-gce-notional-component-grade-boundaries.pdf",
+   "papers": {
+    "9FM0/01": {
+     "max": 75,
+     "A*": 61,
+     "A": 51,
+     "B": 41,
+     "C": 31,
+     "D": 21,
+     "E": 12
+    },
+    "9FM0/02": {
+     "max": 75,
+     "A*": 60,
+     "A": 50,
+     "B": 40,
+     "C": 30,
+     "D": 21,
+     "E": 12
+    },
+    "9FM0/3A": {
+     "max": 75,
+     "A*": 65,
+     "A": 54,
+     "B": 43,
+     "C": 32,
+     "D": 22,
+     "E": 12
+    },
+    "9FM0/3B": {
+     "max": 75,
+     "A*": 61,
+     "A": 51,
+     "B": 41,
+     "C": 31,
+     "D": 21,
+     "E": 11
+    },
+    "9FM0/3C": {
+     "max": 75,
+     "A*": 58,
+     "A": 48,
+     "B": 38,
+     "C": 28,
+     "D": 19,
+     "E": 10
+    },
+    "9FM0/3D": {
+     "max": 75,
+     "A*": 55,
+     "A": 46,
+     "B": 38,
+     "C": 30,
+     "D": 22,
+     "E": 14
+    },
+    "9FM0/4A": {
+     "max": 75,
+     "A*": 65,
+     "A": 54,
+     "B": 43,
+     "C": 33,
+     "D": 23,
+     "E": 13
+    },
+    "9FM0/4B": {
+     "max": 75,
+     "A*": 59,
+     "A": 49,
+     "B": 39,
+     "C": 30,
+     "D": 21,
+     "E": 12
+    },
+    "9FM0/4C": {
+     "max": 75,
+     "A*": 58,
+     "A": 48,
+     "B": 38,
+     "C": 29,
+     "D": 20,
+     "E": 11
+    },
+    "9FM0/4D": {
+     "max": 75,
+     "A*": 54,
+     "A": 45,
+     "B": 36,
+     "C": 27,
+     "D": 18,
+     "E": 10
+    }
+   }
+  },
+  {
+   "id": "2021-10",
+   "name": "October 2021",
+   "est": true,
+   "note": "Estimated: the average of the 2022–2026 boundaries",
+   "papers": {
+    "9FM0/01": {
+     "max": 75,
+     "A*": 62,
+     "A": 53,
+     "B": 45,
+     "C": 36,
+     "D": 27,
+     "E": 19
+    },
+    "9FM0/02": {
+     "max": 75,
+     "A*": 64,
+     "A": 55,
+     "B": 46,
+     "C": 38,
+     "D": 29,
+     "E": 21
+    },
+    "9FM0/3A": {
+     "max": 75,
+     "A*": 66,
+     "A": 61,
+     "B": 50,
+     "C": 39,
+     "D": 28,
+     "E": 18
+    },
+    "9FM0/3B": {
+     "max": 75,
+     "A*": 61,
+     "A": 54,
+     "B": 45,
+     "C": 36,
+     "D": 28,
+     "E": 20
+    },
+    "9FM0/3C": {
+     "max": 75,
+     "A*": 65,
+     "A": 57,
+     "B": 48,
+     "C": 38,
+     "D": 29,
+     "E": 20
+    },
+    "9FM0/3D": {
+     "max": 75,
+     "A*": 55,
+     "A": 46,
+     "B": 38,
+     "C": 30,
+     "D": 22,
+     "E": 14
+    },
+    "9FM0/4A": {
+     "max": 75,
+     "A*": 64,
+     "A": 55,
+     "B": 44,
+     "C": 35,
+     "D": 25,
+     "E": 15
+    },
+    "9FM0/4B": {
+     "max": 75,
+     "A*": 58,
+     "A": 51,
+     "B": 43,
+     "C": 34,
+     "D": 26,
+     "E": 18
+    },
+    "9FM0/4C": {
+     "max": 75,
+     "A*": 60,
+     "A": 51,
+     "B": 42,
+     "C": 34,
+     "D": 25,
+     "E": 17
+    },
+    "9FM0/4D": {
+     "max": 75,
+     "A*": 61,
+     "A": 54,
+     "B": 44,
+     "C": 34,
+     "D": 24,
+     "E": 15
+    }
+   }
+  },
+  {
+   "id": "2020-10",
+   "name": "October 2020",
+   "est": true,
+   "note": "Estimated: the average of the 2022–2026 boundaries",
+   "papers": {
+    "9FM0/01": {
+     "max": 75,
+     "A*": 62,
+     "A": 53,
+     "B": 45,
+     "C": 36,
+     "D": 27,
+     "E": 19
+    },
+    "9FM0/02": {
+     "max": 75,
+     "A*": 64,
+     "A": 55,
+     "B": 46,
+     "C": 38,
+     "D": 29,
+     "E": 21
+    },
+    "9FM0/3A": {
+     "max": 75,
+     "A*": 66,
+     "A": 61,
+     "B": 50,
+     "C": 39,
+     "D": 28,
+     "E": 18
+    },
+    "9FM0/3B": {
+     "max": 75,
+     "A*": 61,
+     "A": 54,
+     "B": 45,
+     "C": 36,
+     "D": 28,
+     "E": 20
+    },
+    "9FM0/3C": {
+     "max": 75,
+     "A*": 65,
+     "A": 57,
+     "B": 48,
+     "C": 38,
+     "D": 29,
+     "E": 20
+    },
+    "9FM0/3D": {
+     "max": 75,
+     "A*": 55,
+     "A": 46,
+     "B": 38,
+     "C": 30,
+     "D": 22,
+     "E": 14
+    },
+    "9FM0/4A": {
+     "max": 75,
+     "A*": 64,
+     "A": 55,
+     "B": 44,
+     "C": 35,
+     "D": 25,
+     "E": 15
+    },
+    "9FM0/4B": {
+     "max": 75,
+     "A*": 58,
+     "A": 51,
+     "B": 43,
+     "C": 34,
+     "D": 26,
+     "E": 18
+    },
+    "9FM0/4C": {
+     "max": 75,
+     "A*": 60,
+     "A": 51,
+     "B": 42,
+     "C": 34,
+     "D": 25,
+     "E": 17
+    },
+    "9FM0/4D": {
+     "max": 75,
+     "A*": 61,
+     "A": 54,
+     "B": 44,
+     "C": 34,
+     "D": 24,
+     "E": 15
+    }
+   }
+  },
+  {
+   "id": "2019-06",
+   "name": "June 2019",
+   "est": true,
+   "note": "Estimated: the average of the 2022–2026 boundaries",
+   "papers": {
+    "9FM0/01": {
+     "max": 75,
+     "A*": 62,
+     "A": 53,
+     "B": 45,
+     "C": 36,
+     "D": 27,
+     "E": 19
+    },
+    "9FM0/02": {
+     "max": 75,
+     "A*": 64,
+     "A": 55,
+     "B": 46,
+     "C": 38,
+     "D": 29,
+     "E": 21
+    },
+    "9FM0/3A": {
+     "max": 75,
+     "A*": 66,
+     "A": 61,
+     "B": 50,
+     "C": 39,
+     "D": 28,
+     "E": 18
+    },
+    "9FM0/3B": {
+     "max": 75,
+     "A*": 61,
+     "A": 54,
+     "B": 45,
+     "C": 36,
+     "D": 28,
+     "E": 20
+    },
+    "9FM0/3C": {
+     "max": 75,
+     "A*": 65,
+     "A": 57,
+     "B": 48,
+     "C": 38,
+     "D": 29,
+     "E": 20
+    },
+    "9FM0/3D": {
+     "max": 75,
+     "A*": 55,
+     "A": 46,
+     "B": 38,
+     "C": 30,
+     "D": 22,
+     "E": 14
+    },
+    "9FM0/4A": {
+     "max": 75,
+     "A*": 64,
+     "A": 55,
+     "B": 44,
+     "C": 35,
+     "D": 25,
+     "E": 15
+    },
+    "9FM0/4B": {
+     "max": 75,
+     "A*": 58,
+     "A": 51,
+     "B": 43,
+     "C": 34,
+     "D": 26,
+     "E": 18
+    },
+    "9FM0/4C": {
+     "max": 75,
+     "A*": 60,
+     "A": 51,
+     "B": 42,
+     "C": 34,
+     "D": 25,
+     "E": 17
+    },
+    "9FM0/4D": {
+     "max": 75,
+     "A*": 61,
+     "A": 54,
+     "B": 44,
+     "C": 34,
+     "D": 24,
+     "E": 15
+    }
+   }
+  },
+  {
+   "id": "specimen",
+   "name": "Specimen papers",
+   "est": true,
+   "note": "Estimated: the average of the 2022–2026 boundaries",
+   "papers": {
+    "9FM0/01": {
+     "max": 75,
+     "A*": 62,
+     "A": 53,
+     "B": 45,
+     "C": 36,
+     "D": 27,
+     "E": 19
+    },
+    "9FM0/02": {
+     "max": 75,
+     "A*": 64,
+     "A": 55,
+     "B": 46,
+     "C": 38,
+     "D": 29,
+     "E": 21
+    },
+    "9FM0/3A": {
+     "max": 75,
+     "A*": 66,
+     "A": 61,
+     "B": 50,
+     "C": 39,
+     "D": 28,
+     "E": 18
+    },
+    "9FM0/3B": {
+     "max": 75,
+     "A*": 61,
+     "A": 54,
+     "B": 45,
+     "C": 36,
+     "D": 28,
+     "E": 20
+    },
+    "9FM0/3C": {
+     "max": 75,
+     "A*": 65,
+     "A": 57,
+     "B": 48,
+     "C": 38,
+     "D": 29,
+     "E": 20
+    },
+    "9FM0/3D": {
+     "max": 75,
+     "A*": 55,
+     "A": 46,
+     "B": 38,
+     "C": 30,
+     "D": 22,
+     "E": 14
+    },
+    "9FM0/4A": {
+     "max": 75,
+     "A*": 64,
+     "A": 55,
+     "B": 44,
+     "C": 35,
+     "D": 25,
+     "E": 15
+    },
+    "9FM0/4B": {
+     "max": 75,
+     "A*": 58,
+     "A": 51,
+     "B": 43,
+     "C": 34,
+     "D": 26,
+     "E": 18
+    },
+    "9FM0/4C": {
+     "max": 75,
+     "A*": 60,
+     "A": 51,
+     "B": 42,
+     "C": 34,
+     "D": 25,
+     "E": 17
+    },
+    "9FM0/4D": {
+     "max": 75,
+     "A*": 61,
+     "A": 54,
+     "B": 44,
+     "C": 34,
+     "D": 24,
+     "E": 15
+    }
+   }
+  }
+ ],
+ "unsure": [
+  "Option sub-topic wording is from memory of the 2017 spec; check against the Pearson spec.",
+  "Pearson limits which option pairs you can take together (e.g. a \"2\" paper usually needs its \"1\" paper); the picker doesn't enforce that."
+ ]
+}
