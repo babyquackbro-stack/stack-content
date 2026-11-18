@@ -1,0 +1,166 @@
+{
+ "packId": "pearson-maths-9ma0",
+ "note": "Notional component (per-paper) raw-mark boundaries, copied from the board documents in source. Max = paper total.",
+ "series": {
+  "2022-06": {
+   "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/A-level/2206-gce-notional-component-grade-boundaries.pdf",
+   "papers": {
+    "9MA0/01": {
+     "max": 100,
+     "A*": 70,
+     "A": 53,
+     "B": 42,
+     "C": 31,
+     "D": 20,
+     "E": 10
+    },
+    "9MA0/02": {
+     "max": 100,
+     "A*": 73,
+     "A": 55,
+     "B": 43,
+     "C": 31,
+     "D": 20,
+     "E": 9
+    },
+    "9MA0/03": {
+     "max": 100,
+     "A*": 74,
+     "A": 56,
+     "B": 44,
+     "C": 32,
+     "D": 20,
+     "E": 9
+    }
+   }
+  },
+  "2023-06": {
+   "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/A-level/2306-gce-notional-component-grade-boundaries.pdf",
+   "papers": {
+    "9MA0/01": {
+     "max": 100,
+     "A*": 82,
+     "A": 67,
+     "B": 54,
+     "C": 41,
+     "D": 28,
+     "E": 16
+    },
+    "9MA0/02": {
+     "max": 100,
+     "A*": 80,
+     "A": 63,
+     "B": 51,
+     "C": 39,
+     "D": 27,
+     "E": 16
+    },
+    "9MA0/03": {
+     "max": 100,
+     "A*": 82,
+     "A": 66,
+     "B": 53,
+     "C": 40,
+     "D": 27,
+     "E": 15
+    }
+   }
+  },
+  "2024-06": {
+   "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/A-level/grade-boundaries-june-2024-notional-component-gce.pdf",
+   "papers": {
+    "9MA0/01": {
+     "max": 100,
+     "A*": 81,
+     "A": 66,
+     "B": 53,
+     "C": 40,
+     "D": 28,
+     "E": 16
+    },
+    "9MA0/02": {
+     "max": 100,
+     "A*": 81,
+     "A": 65,
+     "B": 53,
+     "C": 42,
+     "D": 31,
+     "E": 20
+    },
+    "9MA0/03": {
+     "max": 100,
+     "A*": 89,
+     "A": 74,
+     "B": 60,
+     "C": 46,
+     "D": 33,
+     "E": 20
+    }
+   }
+  },
+  "2025-06": {
+   "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/A-level/grade-boundaries-june-2025-notional-component-gce.pdf",
+   "papers": {
+    "9MA0/01": {
+     "max": 100,
+     "A*": 88,
+     "A": 74,
+     "B": 61,
+     "C": 48,
+     "D": 36,
+     "E": 24
+    },
+    "9MA0/02": {
+     "max": 100,
+     "A*": 83,
+     "A": 67,
+     "B": 55,
+     "C": 44,
+     "D": 33,
+     "E": 22
+    },
+    "9MA0/03": {
+     "max": 100,
+     "A*": 87,
+     "A": 73,
+     "B": 61,
+     "C": 49,
+     "D": 37,
+     "E": 25
+    }
+   }
+  },
+  "2026-06": {
+   "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/A-level/grade-boundaries-june-2026-notional-component-gce.pdf",
+   "papers": {
+    "9MA0/01": {
+     "max": 100,
+     "A*": 81,
+     "A": 67,
+     "B": 55,
+     "C": 43,
+     "D": 31,
+     "E": 19
+    },
+    "9MA0/02": {
+     "max": 100,
+     "A*": 87,
+     "A": 75,
+     "B": 62,
+     "C": 49,
+     "D": 37,
+     "E": 25
+    },
+    "9MA0/03": {
+     "max": 100,
+     "A*": 86,
+     "A": 68,
+     "B": 56,
+     "C": 44,
+     "D": 32,
+     "E": 20
+    }
+   }
+  }
+ }
+}

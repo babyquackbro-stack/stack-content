@@ -9,7 +9,7 @@
  "firstExam": 2017,
  "specVersion": null,
  "source": "https://www.aqa.org.uk/subjects/psychology/a-level/psychology-7182/specification",
- "v": 1,
+ "v": 2,
  "series": "June 2027",
  "hours": 60,
  "options": [
@@ -77,21 +77,24 @@
    "name": "Paper 1: Introductory topics in psychology",
    "minutes": 120,
    "date": "2027-05-18",
-   "start": "09:00"
+   "start": "09:00",
+   "marks": 96
   },
   {
    "id": "7182/2",
    "name": "Paper 2: Psychology in context",
    "minutes": 120,
    "date": "2027-05-25",
-   "start": "09:00"
+   "start": "09:00",
+   "marks": 96
   },
   {
    "id": "7182/3",
    "name": "Paper 3: Issues and options in psychology",
    "minutes": 120,
    "date": "2027-06-09",
-   "start": "09:00"
+   "start": "09:00",
+   "marks": 96
   }
  ],
  "topics": [
@@ -405,6 +408,387 @@
    "sub": [],
    "practice": true,
    "mins": 135
+  }
+ ],
+ "pastPapers": [
+  {
+   "id": "2026-06",
+   "name": "June 2026",
+   "source": "https://cdn.sanity.io/files/p28bar15/green/63cb28a7468d750e12f2f8859cba85fbf62213d3.pdf",
+   "papers": {
+    "7182/1": {
+     "max": 96,
+     "A*": 73,
+     "A": 64,
+     "B": 53,
+     "C": 42,
+     "D": 31,
+     "E": 21
+    },
+    "7182/2": {
+     "max": 96,
+     "A*": 80,
+     "A": 73,
+     "B": 62,
+     "C": 51,
+     "D": 40,
+     "E": 29
+    },
+    "7182/3": {
+     "max": 96,
+     "A*": 76,
+     "A": 68,
+     "B": 55,
+     "C": 42,
+     "D": 29,
+     "E": 17
+    }
+   }
+  },
+  {
+   "id": "2025-06",
+   "name": "June 2025",
+   "source": "https://cdn.sanity.io/files/p28bar15/green/dbed610cecc941b4d8c16ca921b352797599bf9c.pdf",
+   "papers": {
+    "7182/1": {
+     "max": 96,
+     "A*": 75,
+     "A": 67,
+     "B": 55,
+     "C": 44,
+     "D": 33,
+     "E": 22
+    },
+    "7182/2": {
+     "max": 96,
+     "A*": 74,
+     "A": 66,
+     "B": 55,
+     "C": 44,
+     "D": 33,
+     "E": 22
+    },
+    "7182/3": {
+     "max": 96,
+     "A*": 73,
+     "A": 65,
+     "B": 52,
+     "C": 40,
+     "D": 28,
+     "E": 16
+    }
+   }
+  },
+  {
+   "id": "2024-06",
+   "name": "June 2024",
+   "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-A-LEVEL-GDE-BDY-JUN-2024.PDF",
+   "papers": {
+    "7182/1": {
+     "max": 96,
+     "A*": 72,
+     "A": 63,
+     "B": 52,
+     "C": 41,
+     "D": 31,
+     "E": 21
+    },
+    "7182/2": {
+     "max": 96,
+     "A*": 74,
+     "A": 66,
+     "B": 54,
+     "C": 43,
+     "D": 32,
+     "E": 21
+    },
+    "7182/3": {
+     "max": 96,
+     "A*": 74,
+     "A": 67,
+     "B": 55,
+     "C": 44,
+     "D": 33,
+     "E": 22
+    }
+   }
+  },
+  {
+   "id": "2023-06",
+   "name": "June 2023",
+   "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-A-LEVEL-GDE-BDY-JUN-2023.PDF",
+   "papers": {
+    "7182/1": {
+     "max": 96,
+     "A*": 70,
+     "A": 61,
+     "B": 50,
+     "C": 39,
+     "D": 28,
+     "E": 17
+    },
+    "7182/2": {
+     "max": 96,
+     "A*": 73,
+     "A": 65,
+     "B": 54,
+     "C": 43,
+     "D": 32,
+     "E": 21
+    },
+    "7182/3": {
+     "max": 96,
+     "A*": 75,
+     "A": 68,
+     "B": 55,
+     "C": 42,
+     "D": 30,
+     "E": 18
+    }
+   }
+  },
+  {
+   "id": "2022-06",
+   "name": "June 2022",
+   "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-A-LEVEL-GDE-BDY-JUN-2022.PDF",
+   "papers": {
+    "7182/1": {
+     "max": 96,
+     "A*": 67,
+     "A": 59,
+     "B": 49,
+     "C": 39,
+     "D": 29,
+     "E": 19
+    },
+    "7182/2": {
+     "max": 96,
+     "A*": 67,
+     "A": 59,
+     "B": 47,
+     "C": 35,
+     "D": 23,
+     "E": 12
+    },
+    "7182/3": {
+     "max": 96,
+     "A*": 67,
+     "A": 59,
+     "B": 47,
+     "C": 35,
+     "D": 23,
+     "E": 11
+    }
+   }
+  },
+  {
+   "id": "2021-11",
+   "name": "November 2021",
+   "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-A-LEVEL-GDE-BDY-NOV-2021.PDF",
+   "papers": {
+    "7182/1": {
+     "max": 96,
+     "A*": 63,
+     "A": 54,
+     "B": 45,
+     "C": 36,
+     "D": 27,
+     "E": 18
+    },
+    "7182/2": {
+     "max": 96,
+     "A*": 63,
+     "A": 54,
+     "B": 45,
+     "C": 36,
+     "D": 27,
+     "E": 18
+    },
+    "7182/3": {
+     "max": 96,
+     "A*": 62,
+     "A": 53,
+     "B": 43,
+     "C": 33,
+     "D": 23,
+     "E": 13
+    }
+   }
+  },
+  {
+   "id": "2020-11",
+   "name": "November 2020",
+   "est": true,
+   "note": "Estimated: the average of the 2021–2026 boundaries",
+   "papers": {
+    "7182/1": {
+     "max": 96,
+     "A*": 70,
+     "A": 61,
+     "B": 51,
+     "C": 40,
+     "D": 30,
+     "E": 20
+    },
+    "7182/2": {
+     "max": 96,
+     "A*": 72,
+     "A": 64,
+     "B": 53,
+     "C": 42,
+     "D": 31,
+     "E": 21
+    },
+    "7182/3": {
+     "max": 96,
+     "A*": 71,
+     "A": 63,
+     "B": 51,
+     "C": 39,
+     "D": 28,
+     "E": 16
+    }
+   }
+  },
+  {
+   "id": "2019-06",
+   "name": "June 2019",
+   "est": true,
+   "note": "Estimated: the average of the 2021–2026 boundaries",
+   "papers": {
+    "7182/1": {
+     "max": 96,
+     "A*": 70,
+     "A": 61,
+     "B": 51,
+     "C": 40,
+     "D": 30,
+     "E": 20
+    },
+    "7182/2": {
+     "max": 96,
+     "A*": 72,
+     "A": 64,
+     "B": 53,
+     "C": 42,
+     "D": 31,
+     "E": 21
+    },
+    "7182/3": {
+     "max": 96,
+     "A*": 71,
+     "A": 63,
+     "B": 51,
+     "C": 39,
+     "D": 28,
+     "E": 16
+    }
+   }
+  },
+  {
+   "id": "2018-06",
+   "name": "June 2018",
+   "est": true,
+   "note": "Estimated: the average of the 2021–2026 boundaries",
+   "papers": {
+    "7182/1": {
+     "max": 96,
+     "A*": 70,
+     "A": 61,
+     "B": 51,
+     "C": 40,
+     "D": 30,
+     "E": 20
+    },
+    "7182/2": {
+     "max": 96,
+     "A*": 72,
+     "A": 64,
+     "B": 53,
+     "C": 42,
+     "D": 31,
+     "E": 21
+    },
+    "7182/3": {
+     "max": 96,
+     "A*": 71,
+     "A": 63,
+     "B": 51,
+     "C": 39,
+     "D": 28,
+     "E": 16
+    }
+   }
+  },
+  {
+   "id": "2017-06",
+   "name": "June 2017",
+   "est": true,
+   "note": "Estimated: the average of the 2021–2026 boundaries",
+   "papers": {
+    "7182/1": {
+     "max": 96,
+     "A*": 70,
+     "A": 61,
+     "B": 51,
+     "C": 40,
+     "D": 30,
+     "E": 20
+    },
+    "7182/2": {
+     "max": 96,
+     "A*": 72,
+     "A": 64,
+     "B": 53,
+     "C": 42,
+     "D": 31,
+     "E": 21
+    },
+    "7182/3": {
+     "max": 96,
+     "A*": 71,
+     "A": 63,
+     "B": 51,
+     "C": 39,
+     "D": 28,
+     "E": 16
+    }
+   }
+  },
+  {
+   "id": "specimen",
+   "name": "Specimen papers",
+   "est": true,
+   "note": "Estimated: the average of the 2021–2026 boundaries",
+   "papers": {
+    "7182/1": {
+     "max": 96,
+     "A*": 70,
+     "A": 61,
+     "B": 51,
+     "C": 40,
+     "D": 30,
+     "E": 20
+    },
+    "7182/2": {
+     "max": 96,
+     "A*": 72,
+     "A": 64,
+     "B": 53,
+     "C": 42,
+     "D": 31,
+     "E": 21
+    },
+    "7182/3": {
+     "max": 96,
+     "A*": 71,
+     "A": 63,
+     "B": 51,
+     "C": 39,
+     "D": 28,
+     "E": 16
+    }
+   }
   }
  ],
  "unsure": [

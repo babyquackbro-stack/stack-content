@@ -1,6 +1,6 @@
 {
  "format": 1,
- "updated": "2026-11-17",
+ "updated": "2026-11-18",
  "series": "June 2027",
  "packs": [
   {
@@ -11,7 +11,7 @@
    "level": "A-level",
    "code": "7402",
    "series": "June 2027",
-   "v": 1,
+   "v": 2,
    "file": "packs/aqa-biology-7402.json",
    "papers": 3,
    "hasOptions": false
@@ -24,8 +24,21 @@
    "level": "A-level",
    "code": "7136",
    "series": "June 2027",
-   "v": 1,
+   "v": 2,
    "file": "packs/aqa-economics-7136.json",
+   "papers": 3,
+   "hasOptions": false
+  },
+  {
+   "id": "pearson-economics-a-9ec0",
+   "board": "Pearson",
+   "subject": "Economics",
+   "title": "Economics A",
+   "level": "A-level",
+   "code": "9EC0",
+   "series": "June 2027",
+   "v": 1,
+   "file": "packs/pearson-economics-a-9ec0.json",
    "papers": 3,
    "hasOptions": false
   },
@@ -37,7 +50,7 @@
    "level": "A-level",
    "code": "9ET0",
    "series": "June 2027",
-   "v": 1,
+   "v": 2,
    "file": "packs/pearson-englit-9et0.json",
    "papers": 3,
    "hasOptions": true
@@ -50,7 +63,7 @@
    "level": "A-level",
    "code": "9MA0",
    "series": "June 2027",
-   "v": 1,
+   "v": 2,
    "file": "packs/pearson-maths-9ma0.json",
    "papers": 3,
    "hasOptions": false
@@ -63,7 +76,7 @@
    "level": "A-level",
    "code": "H556",
    "series": "June 2027",
-   "v": 1,
+   "v": 2,
    "file": "packs/ocr-physics-a-h556.json",
    "papers": 3,
    "hasOptions": false
@@ -76,7 +89,7 @@
    "level": "A-level",
    "code": "7182",
    "series": "June 2027",
-   "v": 1,
+   "v": 2,
    "file": "packs/aqa-psychology-7182.json",
    "papers": 3,
    "hasOptions": true

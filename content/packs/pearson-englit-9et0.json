@@ -9,7 +9,7 @@
  "firstExam": 2017,
  "specVersion": null,
  "source": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/english-literature-2015.html",
- "v": 1,
+ "v": 2,
  "series": "June 2027",
  "hours": 60,
  "options": [
@@ -156,21 +156,24 @@
    "name": "Paper 1: Drama",
    "minutes": 135,
    "date": "2027-05-13",
-   "start": "09:00"
+   "start": "09:00",
+   "marks": 60
   },
   {
    "id": "9ET0/02",
    "name": "Paper 2: Prose",
    "minutes": 75,
    "date": "2027-05-20",
-   "start": "09:00"
+   "start": "09:00",
+   "marks": 40
   },
   {
    "id": "9ET0/03",
    "name": "Paper 3: Poetry",
    "minutes": 135,
    "date": "2027-05-28",
-   "start": "09:00"
+   "start": "09:00",
+   "marks": 60
   }
  ],
  "topics": [
@@ -666,6 +669,388 @@
    "sub": [],
    "practice": true,
    "mins": 210
+  }
+ ],
+ "pastPapers": [
+  {
+   "id": "2026-06",
+   "name": "June 2026",
+   "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/A-level/grade-boundaries-june-2026-notional-component-gce.pdf",
+   "papers": {
+    "9ET0/01": {
+     "max": 60,
+     "A*": 42,
+     "A": 39,
+     "B": 33,
+     "C": 27,
+     "D": 22,
+     "E": 17
+    },
+    "9ET0/02": {
+     "max": 40,
+     "A*": 34,
+     "A": 31,
+     "B": 26,
+     "C": 21,
+     "D": 17,
+     "E": 13
+    },
+    "9ET0/03": {
+     "max": 60,
+     "A*": 39,
+     "A": 35,
+     "B": 30,
+     "C": 25,
+     "D": 21,
+     "E": 17
+    }
+   }
+  },
+  {
+   "id": "2025-06",
+   "name": "June 2025",
+   "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/A-level/grade-boundaries-june-2025-notional-component-gce.pdf",
+   "papers": {
+    "9ET0/01": {
+     "max": 60,
+     "A*": 42,
+     "A": 39,
+     "B": 33,
+     "C": 27,
+     "D": 22,
+     "E": 17
+    },
+    "9ET0/02": {
+     "max": 40,
+     "A*": 34,
+     "A": 31,
+     "B": 26,
+     "C": 21,
+     "D": 17,
+     "E": 13
+    },
+    "9ET0/03": {
+     "max": 60,
+     "A*": 38,
+     "A": 35,
+     "B": 30,
+     "C": 25,
+     "D": 21,
+     "E": 17
+    }
+   }
+  },
+  {
+   "id": "2024-06",
+   "name": "June 2024",
+   "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/A-level/grade-boundaries-june-2024-notional-component-gce.pdf",
+   "papers": {
+    "9ET0/01": {
+     "max": 60,
+     "A*": 43,
+     "A": 39,
+     "B": 33,
+     "C": 27,
+     "D": 21,
+     "E": 15
+    },
+    "9ET0/02": {
+     "max": 40,
+     "A*": 34,
+     "A": 31,
+     "B": 26,
+     "C": 21,
+     "D": 16,
+     "E": 11
+    },
+    "9ET0/03": {
+     "max": 60,
+     "A*": 39,
+     "A": 36,
+     "B": 31,
+     "C": 26,
+     "D": 21,
+     "E": 16
+    }
+   }
+  },
+  {
+   "id": "2023-06",
+   "name": "June 2023",
+   "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/A-level/2306-gce-notional-component-grade-boundaries.pdf",
+   "papers": {
+    "9ET0/01": {
+     "max": 60,
+     "A*": 43,
+     "A": 39,
+     "B": 32,
+     "C": 26,
+     "D": 20,
+     "E": 14
+    },
+    "9ET0/02": {
+     "max": 40,
+     "A*": 34,
+     "A": 31,
+     "B": 25,
+     "C": 20,
+     "D": 15,
+     "E": 10
+    },
+    "9ET0/03": {
+     "max": 60,
+     "A*": 40,
+     "A": 36,
+     "B": 30,
+     "C": 25,
+     "D": 20,
+     "E": 15
+    }
+   }
+  },
+  {
+   "id": "2022-06",
+   "name": "June 2022",
+   "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/A-level/2206-gce-notional-component-grade-boundaries.pdf",
+   "papers": {
+    "9ET0/01": {
+     "max": 60,
+     "A*": 41,
+     "A": 37,
+     "B": 31,
+     "C": 25,
+     "D": 19,
+     "E": 13
+    },
+    "9ET0/02": {
+     "max": 40,
+     "A*": 31,
+     "A": 28,
+     "B": 23,
+     "C": 18,
+     "D": 13,
+     "E": 9
+    },
+    "9ET0/03": {
+     "max": 60,
+     "A*": 39,
+     "A": 35,
+     "B": 29,
+     "C": 24,
+     "D": 19,
+     "E": 14
+    }
+   }
+  },
+  {
+   "id": "2021-10",
+   "name": "October 2021",
+   "est": true,
+   "note": "Estimated: the average of the 2022–2026 boundaries",
+   "papers": {
+    "9ET0/01": {
+     "max": 60,
+     "A*": 42,
+     "A": 39,
+     "B": 32,
+     "C": 26,
+     "D": 21,
+     "E": 15
+    },
+    "9ET0/02": {
+     "max": 40,
+     "A*": 33,
+     "A": 30,
+     "B": 25,
+     "C": 20,
+     "D": 16,
+     "E": 11
+    },
+    "9ET0/03": {
+     "max": 60,
+     "A*": 39,
+     "A": 35,
+     "B": 30,
+     "C": 25,
+     "D": 20,
+     "E": 16
+    }
+   }
+  },
+  {
+   "id": "2020-10",
+   "name": "October 2020",
+   "est": true,
+   "note": "Estimated: the average of the 2022–2026 boundaries",
+   "papers": {
+    "9ET0/01": {
+     "max": 60,
+     "A*": 42,
+     "A": 39,
+     "B": 32,
+     "C": 26,
+     "D": 21,
+     "E": 15
+    },
+    "9ET0/02": {
+     "max": 40,
+     "A*": 33,
+     "A": 30,
+     "B": 25,
+     "C": 20,
+     "D": 16,
+     "E": 11
+    },
+    "9ET0/03": {
+     "max": 60,
+     "A*": 39,
+     "A": 35,
+     "B": 30,
+     "C": 25,
+     "D": 20,
+     "E": 16
+    }
+   }
+  },
+  {
+   "id": "2019-06",
+   "name": "June 2019",
+   "est": true,
+   "note": "Estimated: the average of the 2022–2026 boundaries",
+   "papers": {
+    "9ET0/01": {
+     "max": 60,
+     "A*": 42,
+     "A": 39,
+     "B": 32,
+     "C": 26,
+     "D": 21,
+     "E": 15
+    },
+    "9ET0/02": {
+     "max": 40,
+     "A*": 33,
+     "A": 30,
+     "B": 25,
+     "C": 20,
+     "D": 16,
+     "E": 11
+    },
+    "9ET0/03": {
+     "max": 60,
+     "A*": 39,
+     "A": 35,
+     "B": 30,
+     "C": 25,
+     "D": 20,
+     "E": 16
+    }
+   }
+  },
+  {
+   "id": "2018-06",
+   "name": "June 2018",
+   "est": true,
+   "note": "Estimated: the average of the 2022–2026 boundaries",
+   "papers": {
+    "9ET0/01": {
+     "max": 60,
+     "A*": 42,
+     "A": 39,
+     "B": 32,
+     "C": 26,
+     "D": 21,
+     "E": 15
+    },
+    "9ET0/02": {
+     "max": 40,
+     "A*": 33,
+     "A": 30,
+     "B": 25,
+     "C": 20,
+     "D": 16,
+     "E": 11
+    },
+    "9ET0/03": {
+     "max": 60,
+     "A*": 39,
+     "A": 35,
+     "B": 30,
+     "C": 25,
+     "D": 20,
+     "E": 16
+    }
+   }
+  },
+  {
+   "id": "2017-06",
+   "name": "June 2017",
+   "est": true,
+   "note": "Estimated: the average of the 2022–2026 boundaries",
+   "papers": {
+    "9ET0/01": {
+     "max": 60,
+     "A*": 42,
+     "A": 39,
+     "B": 32,
+     "C": 26,
+     "D": 21,
+     "E": 15
+    },
+    "9ET0/02": {
+     "max": 40,
+     "A*": 33,
+     "A": 30,
+     "B": 25,
+     "C": 20,
+     "D": 16,
+     "E": 11
+    },
+    "9ET0/03": {
+     "max": 60,
+     "A*": 39,
+     "A": 35,
+     "B": 30,
+     "C": 25,
+     "D": 20,
+     "E": 16
+    }
+   }
+  },
+  {
+   "id": "specimen",
+   "name": "Specimen papers",
+   "est": true,
+   "note": "Estimated: the average of the 2022–2026 boundaries",
+   "papers": {
+    "9ET0/01": {
+     "max": 60,
+     "A*": 42,
+     "A": 39,
+     "B": 32,
+     "C": 26,
+     "D": 21,
+     "E": 15
+    },
+    "9ET0/02": {
+     "max": 40,
+     "A*": 33,
+     "A": 30,
+     "B": 25,
+     "C": 20,
+     "D": 16,
+     "E": 11
+    },
+    "9ET0/03": {
+     "max": 60,
+     "A*": 39,
+     "A": 35,
+     "B": 30,
+     "C": 25,
+     "D": 20,
+     "E": 16
+    }
+   }
   }
  ],
  "unsure": [

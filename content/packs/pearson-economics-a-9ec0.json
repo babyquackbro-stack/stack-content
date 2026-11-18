@@ -1,0 +1,780 @@
+{
+ "format": 1,
+ "id": "pearson-economics-a-9ec0",
+ "board": "Pearson",
+ "subject": "Economics",
+ "level": "A-level",
+ "code": "9EC0",
+ "title": "Economics A",
+ "firstExam": 2017,
+ "specVersion": null,
+ "source": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/economics-a-2015.html",
+ "v": 1,
+ "series": "June 2027",
+ "hours": 60,
+ "options": [],
+ "papers": [
+  {
+   "id": "9EC0/01",
+   "name": "Paper 1: Markets and business behaviour",
+   "minutes": 120,
+   "date": "2027-05-10",
+   "start": "09:00",
+   "marks": 100
+  },
+  {
+   "id": "9EC0/02",
+   "name": "Paper 2: The national and global economy",
+   "minutes": 120,
+   "date": "2027-05-17",
+   "start": "13:30",
+   "marks": 100
+  },
+  {
+   "id": "9EC0/03",
+   "name": "Paper 3: Microeconomics and macroeconomics",
+   "minutes": 120,
+   "date": "2027-06-07",
+   "start": "09:00",
+   "marks": 100
+  }
+ ],
+ "topics": [
+  {
+   "id": "t1",
+   "name": "Nature of economics (1.1)",
+   "papers": [
+    "9EC0/01",
+    "9EC0/03"
+   ],
+   "sub": [
+    "Economics as a social science",
+    "Positive and normative statements",
+    "The economic problem",
+    "Production possibility frontiers",
+    "Specialisation and the division of labour",
+    "Free market, mixed and command economies"
+   ],
+   "mins": 225
+  },
+  {
+   "id": "t2",
+   "name": "How markets work (1.2)",
+   "papers": [
+    "9EC0/01",
+    "9EC0/03"
+   ],
+   "sub": [
+    "Rational decision making",
+    "Demand",
+    "Price, income and cross elasticities of demand",
+    "Supply",
+    "Price elasticity of supply",
+    "Price determination",
+    "Price mechanism",
+    "Consumer and producer surplus",
+    "Indirect taxes and subsidies",
+    "Alternative views of consumer behaviour"
+   ],
+   "mins": 360
+  },
+  {
+   "id": "t3",
+   "name": "Market failure (1.3)",
+   "papers": [
+    "9EC0/01",
+    "9EC0/03"
+   ],
+   "sub": [
+    "Types of market failure",
+    "Externalities",
+    "Public goods",
+    "Information gaps"
+   ],
+   "mins": 150
+  },
+  {
+   "id": "t4",
+   "name": "Government intervention (1.4)",
+   "papers": [
+    "9EC0/01",
+    "9EC0/03"
+   ],
+   "sub": [
+    "Methods of government intervention",
+    "Government failure"
+   ],
+   "mins": 75
+  },
+  {
+   "id": "t5",
+   "name": "Business growth (3.1)",
+   "papers": [
+    "9EC0/01",
+    "9EC0/03"
+   ],
+   "sub": [
+    "Sizes and types of firms",
+    "Business growth",
+    "Demergers"
+   ],
+   "mins": 105
+  },
+  {
+   "id": "t6",
+   "name": "Business objectives (3.2)",
+   "papers": [
+    "9EC0/01",
+    "9EC0/03"
+   ],
+   "sub": [
+    "Profit maximisation",
+    "Revenue and sales maximisation",
+    "Satisficing"
+   ],
+   "mins": 105
+  },
+  {
+   "id": "t7",
+   "name": "Revenues, costs and profits (3.3)",
+   "papers": [
+    "9EC0/01",
+    "9EC0/03"
+   ],
+   "sub": [
+    "Revenue",
+    "Costs",
+    "Economies and diseconomies of scale",
+    "Normal profits, supernormal profits and losses"
+   ],
+   "mins": 150
+  },
+  {
+   "id": "t8",
+   "name": "Market structures (3.4)",
+   "papers": [
+    "9EC0/01",
+    "9EC0/03"
+   ],
+   "sub": [
+    "Efficiency",
+    "Perfect competition",
+    "Monopolistic competition",
+    "Oligopoly",
+    "Monopoly",
+    "Monopsony",
+    "Contestability"
+   ],
+   "mins": 255
+  },
+  {
+   "id": "t9",
+   "name": "Labour market (3.5)",
+   "papers": [
+    "9EC0/01",
+    "9EC0/03"
+   ],
+   "sub": [
+    "Demand for labour",
+    "Supply of labour",
+    "Wage determination in competitive and non-competitive markets"
+   ],
+   "mins": 105
+  },
+  {
+   "id": "t10",
+   "name": "Government intervention in business (3.6)",
+   "papers": [
+    "9EC0/01",
+    "9EC0/03"
+   ],
+   "sub": [
+    "Government intervention",
+    "The impact of government intervention"
+   ],
+   "mins": 75
+  },
+  {
+   "id": "t11",
+   "name": "Measures of economic performance (2.1)",
+   "papers": [
+    "9EC0/02",
+    "9EC0/03"
+   ],
+   "sub": [
+    "Economic growth",
+    "Inflation",
+    "Employment and unemployment",
+    "Balance of payments"
+   ],
+   "mins": 150
+  },
+  {
+   "id": "t12",
+   "name": "Aggregate demand (2.2)",
+   "papers": [
+    "9EC0/02",
+    "9EC0/03"
+   ],
+   "sub": [
+    "The characteristics of AD",
+    "Consumption",
+    "Investment",
+    "Government expenditure",
+    "Net trade"
+   ],
+   "mins": 180
+  },
+  {
+   "id": "t13",
+   "name": "Aggregate supply (2.3)",
+   "papers": [
+    "9EC0/02",
+    "9EC0/03"
+   ],
+   "sub": [
+    "The characteristics of AS",
+    "Short-run AS",
+    "Long-run AS"
+   ],
+   "mins": 105
+  },
+  {
+   "id": "t14",
+   "name": "National income (2.4)",
+   "papers": [
+    "9EC0/02",
+    "9EC0/03"
+   ],
+   "sub": [
+    "National income",
+    "Injections and withdrawals",
+    "Equilibrium levels of real national output",
+    "The multiplier"
+   ],
+   "mins": 150
+  },
+  {
+   "id": "t15",
+   "name": "Economic growth (2.5)",
+   "papers": [
+    "9EC0/02",
+    "9EC0/03"
+   ],
+   "sub": [
+    "Causes of growth",
+    "Output gaps",
+    "Trade (business) cycle",
+    "The impact of economic growth"
+   ],
+   "mins": 150
+  },
+  {
+   "id": "t16",
+   "name": "Macroeconomic objectives and policies (2.6)",
+   "papers": [
+    "9EC0/02",
+    "9EC0/03"
+   ],
+   "sub": [
+    "Possible macroeconomic objectives",
+    "Demand-side policies",
+    "Supply-side policies",
+    "Conflicts and trade-offs between objectives and policies"
+   ],
+   "mins": 150
+  },
+  {
+   "id": "t17",
+   "name": "International economics (4.1)",
+   "papers": [
+    "9EC0/02",
+    "9EC0/03"
+   ],
+   "sub": [
+    "Globalisation",
+    "Specialisation and trade",
+    "Pattern of trade",
+    "Terms of trade",
+    "Trading blocs and the WTO",
+    "Restrictions on free trade",
+    "Balance of payments",
+    "Exchange rates",
+    "International competitiveness"
+   ],
+   "mins": 330
+  },
+  {
+   "id": "t18",
+   "name": "Poverty and inequality (4.2)",
+   "papers": [
+    "9EC0/02",
+    "9EC0/03"
+   ],
+   "sub": [
+    "Absolute and relative poverty",
+    "Inequality"
+   ],
+   "mins": 75
+  },
+  {
+   "id": "t19",
+   "name": "Emerging and developing economies (4.3)",
+   "papers": [
+    "9EC0/02",
+    "9EC0/03"
+   ],
+   "sub": [
+    "Measures of development",
+    "Factors influencing growth and development",
+    "Strategies influencing growth and development"
+   ],
+   "mins": 105
+  },
+  {
+   "id": "t20",
+   "name": "The financial sector (4.4)",
+   "papers": [
+    "9EC0/02",
+    "9EC0/03"
+   ],
+   "sub": [
+    "Role of financial markets",
+    "Market failure in the financial sector",
+    "Role of central banks"
+   ],
+   "mins": 105
+  },
+  {
+   "id": "t21",
+   "name": "Role of the state in the macroeconomy (4.5)",
+   "papers": [
+    "9EC0/02",
+    "9EC0/03"
+   ],
+   "sub": [
+    "Public expenditure",
+    "Taxation",
+    "Public sector finances",
+    "Macroeconomic policies in a global context"
+   ],
+   "mins": 150
+  },
+  {
+   "id": "t22",
+   "name": "Past paper practice: Paper 1: Markets and business behaviour",
+   "papers": [
+    "9EC0/01"
+   ],
+   "sub": [],
+   "practice": true,
+   "mins": 105
+  },
+  {
+   "id": "t23",
+   "name": "Past paper practice: Paper 2: The national and global economy",
+   "papers": [
+    "9EC0/02"
+   ],
+   "sub": [],
+   "practice": true,
+   "mins": 105
+  },
+  {
+   "id": "t24",
+   "name": "Past paper practice: Paper 3: Microeconomics and macroeconomics",
+   "papers": [
+    "9EC0/03"
+   ],
+   "sub": [],
+   "practice": true,
+   "mins": 105
+  }
+ ],
+ "pastPapers": [
+  {
+   "id": "2026-06",
+   "name": "June 2026",
+   "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/A-level/grade-boundaries-june-2026-notional-component-gce.pdf",
+   "papers": {
+    "9EC0/01": {
+     "max": 100,
+     "A*": 85,
+     "A": 78,
+     "B": 67,
+     "C": 57,
+     "D": 47,
+     "E": 37
+    },
+    "9EC0/02": {
+     "max": 100,
+     "A*": 87,
+     "A": 80,
+     "B": 69,
+     "C": 59,
+     "D": 49,
+     "E": 39
+    },
+    "9EC0/03": {
+     "max": 100,
+     "A*": 86,
+     "A": 79,
+     "B": 68,
+     "C": 57,
+     "D": 47,
+     "E": 37
+    }
+   }
+  },
+  {
+   "id": "2025-06",
+   "name": "June 2025",
+   "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/A-level/grade-boundaries-june-2025-notional-component-gce.pdf",
+   "papers": {
+    "9EC0/01": {
+     "max": 100,
+     "A*": 87,
+     "A": 79,
+     "B": 68,
+     "C": 58,
+     "D": 48,
+     "E": 38
+    },
+    "9EC0/02": {
+     "max": 100,
+     "A*": 85,
+     "A": 78,
+     "B": 67,
+     "C": 57,
+     "D": 47,
+     "E": 37
+    },
+    "9EC0/03": {
+     "max": 100,
+     "A*": 85,
+     "A": 77,
+     "B": 66,
+     "C": 56,
+     "D": 46,
+     "E": 36
+    }
+   }
+  },
+  {
+   "id": "2024-06",
+   "name": "June 2024",
+   "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/A-level/grade-boundaries-june-2024-notional-component-gce.pdf",
+   "papers": {
+    "9EC0/01": {
+     "max": 100,
+     "A*": 82,
+     "A": 74,
+     "B": 63,
+     "C": 53,
+     "D": 43,
+     "E": 33
+    },
+    "9EC0/02": {
+     "max": 100,
+     "A*": 83,
+     "A": 75,
+     "B": 64,
+     "C": 53,
+     "D": 43,
+     "E": 33
+    },
+    "9EC0/03": {
+     "max": 100,
+     "A*": 84,
+     "A": 76,
+     "B": 65,
+     "C": 54,
+     "D": 44,
+     "E": 34
+    }
+   }
+  },
+  {
+   "id": "2023-06",
+   "name": "June 2023",
+   "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/A-level/2306-gce-notional-component-grade-boundaries.pdf",
+   "papers": {
+    "9EC0/01": {
+     "max": 100,
+     "A*": 82,
+     "A": 74,
+     "B": 63,
+     "C": 53,
+     "D": 43,
+     "E": 33
+    },
+    "9EC0/02": {
+     "max": 100,
+     "A*": 81,
+     "A": 72,
+     "B": 62,
+     "C": 52,
+     "D": 42,
+     "E": 32
+    },
+    "9EC0/03": {
+     "max": 100,
+     "A*": 81,
+     "A": 73,
+     "B": 63,
+     "C": 53,
+     "D": 43,
+     "E": 34
+    }
+   }
+  },
+  {
+   "id": "2022-06",
+   "name": "June 2022",
+   "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/A-level/2206-gce-notional-component-grade-boundaries.pdf",
+   "papers": {
+    "9EC0/01": {
+     "max": 100,
+     "A*": 78,
+     "A": 70,
+     "B": 59,
+     "C": 48,
+     "D": 37,
+     "E": 27
+    },
+    "9EC0/02": {
+     "max": 100,
+     "A*": 79,
+     "A": 71,
+     "B": 60,
+     "C": 49,
+     "D": 38,
+     "E": 28
+    },
+    "9EC0/03": {
+     "max": 100,
+     "A*": 77,
+     "A": 69,
+     "B": 58,
+     "C": 47,
+     "D": 37,
+     "E": 27
+    }
+   }
+  },
+  {
+   "id": "2021-10",
+   "name": "October 2021",
+   "est": true,
+   "note": "Estimated: the average of the 2022–2026 boundaries",
+   "papers": {
+    "9EC0/01": {
+     "max": 100,
+     "A*": 83,
+     "A": 75,
+     "B": 64,
+     "C": 54,
+     "D": 44,
+     "E": 34
+    },
+    "9EC0/02": {
+     "max": 100,
+     "A*": 83,
+     "A": 75,
+     "B": 64,
+     "C": 54,
+     "D": 44,
+     "E": 34
+    },
+    "9EC0/03": {
+     "max": 100,
+     "A*": 83,
+     "A": 75,
+     "B": 64,
+     "C": 53,
+     "D": 43,
+     "E": 34
+    }
+   }
+  },
+  {
+   "id": "2020-10",
+   "name": "October 2020",
+   "est": true,
+   "note": "Estimated: the average of the 2022–2026 boundaries",
+   "papers": {
+    "9EC0/01": {
+     "max": 100,
+     "A*": 83,
+     "A": 75,
+     "B": 64,
+     "C": 54,
+     "D": 44,
+     "E": 34
+    },
+    "9EC0/02": {
+     "max": 100,
+     "A*": 83,
+     "A": 75,
+     "B": 64,
+     "C": 54,
+     "D": 44,
+     "E": 34
+    },
+    "9EC0/03": {
+     "max": 100,
+     "A*": 83,
+     "A": 75,
+     "B": 64,
+     "C": 53,
+     "D": 43,
+     "E": 34
+    }
+   }
+  },
+  {
+   "id": "2019-06",
+   "name": "June 2019",
+   "est": true,
+   "note": "Estimated: the average of the 2022–2026 boundaries",
+   "papers": {
+    "9EC0/01": {
+     "max": 100,
+     "A*": 83,
+     "A": 75,
+     "B": 64,
+     "C": 54,
+     "D": 44,
+     "E": 34
+    },
+    "9EC0/02": {
+     "max": 100,
+     "A*": 83,
+     "A": 75,
+     "B": 64,
+     "C": 54,
+     "D": 44,
+     "E": 34
+    },
+    "9EC0/03": {
+     "max": 100,
+     "A*": 83,
+     "A": 75,
+     "B": 64,
+     "C": 53,
+     "D": 43,
+     "E": 34
+    }
+   }
+  },
+  {
+   "id": "2018-06",
+   "name": "June 2018",
+   "est": true,
+   "note": "Estimated: the average of the 2022–2026 boundaries",
+   "papers": {
+    "9EC0/01": {
+     "max": 100,
+     "A*": 83,
+     "A": 75,
+     "B": 64,
+     "C": 54,
+     "D": 44,
+     "E": 34
+    },
+    "9EC0/02": {
+     "max": 100,
+     "A*": 83,
+     "A": 75,
+     "B": 64,
+     "C": 54,
+     "D": 44,
+     "E": 34
+    },
+    "9EC0/03": {
+     "max": 100,
+     "A*": 83,
+     "A": 75,
+     "B": 64,
+     "C": 53,
+     "D": 43,
+     "E": 34
+    }
+   }
+  },
+  {
+   "id": "2017-06",
+   "name": "June 2017",
+   "est": true,
+   "note": "Estimated: the average of the 2022–2026 boundaries",
+   "papers": {
+    "9EC0/01": {
+     "max": 100,
+     "A*": 83,
+     "A": 75,
+     "B": 64,
+     "C": 54,
+     "D": 44,
+     "E": 34
+    },
+    "9EC0/02": {
+     "max": 100,
+     "A*": 83,
+     "A": 75,
+     "B": 64,
+     "C": 54,
+     "D": 44,
+     "E": 34
+    },
+    "9EC0/03": {
+     "max": 100,
+     "A*": 83,
+     "A": 75,
+     "B": 64,
+     "C": 53,
+     "D": 43,
+     "E": 34
+    }
+   }
+  },
+  {
+   "id": "specimen",
+   "name": "Specimen papers",
+   "est": true,
+   "note": "Estimated: the average of the 2022–2026 boundaries",
+   "papers": {
+    "9EC0/01": {
+     "max": 100,
+     "A*": 83,
+     "A": 75,
+     "B": 64,
+     "C": 54,
+     "D": 44,
+     "E": 34
+    },
+    "9EC0/02": {
+     "max": 100,
+     "A*": 83,
+     "A": 75,
+     "B": 64,
+     "C": 54,
+     "D": 44,
+     "E": 34
+    },
+    "9EC0/03": {
+     "max": 100,
+     "A*": 83,
+     "A": 75,
+     "B": 64,
+     "C": 53,
+     "D": 43,
+     "E": 34
+    }
+   }
+  }
+ ],
+ "unsure": [
+  "Sub-topic wording is from memory of the spec headings; check against the Pearson spec.",
+  "Spec issue number not recorded."
+ ]
+}

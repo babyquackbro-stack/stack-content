@@ -40,6 +40,25 @@ Don't edit `index.json` or `packs/*.json` by hand. Edit `src/<board>.js`, then r
   "unsure":  ["..."] }
 ```
 
+### Past papers and grade boundaries
+
+`boundaries/<id>.json` holds each series' per-paper raw boundaries, copied from the board's
+notional component boundary document (link in `source`). The build turns them into
+`pastPapers` on the pack, newest first:
+
+```json
+"pastPapers": [
+  { "id": "2024-06", "name": "June 2024", "source": "https://…", "papers": { "7136/1": { "max": 80, "A*": 59, "A": 52, "B": 44, "C": 36, "D": 28, "E": 20 } } },
+  { "id": "2018-06", "name": "June 2018", "est": true, "note": "Estimated: the average of the 2021–2026 boundaries", "papers": { … } },
+  { "id": "specimen", "name": "Specimen papers", "est": true, … }
+]
+```
+
+The series listed are the ones the spec was sat in (June from its first exam, autumn 2020 and 2021,
+June from 2022) plus Specimen. Any without published boundaries get the average, marked `est`.
+Each paper also gets `marks` (its total). Game mode's practice paper uses this: pick series + paper,
+type your mark, get the grade (`StackPacks.pastPaper(pack, seriesId, paperId)`).
+
 Bump `v` in the source when you fix a pack: apps re-download a pack only when its `v` changes.
 
 ## How it maps onto Stack (`src/renderer/content-packs.js`)

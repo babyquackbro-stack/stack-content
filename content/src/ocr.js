@@ -2,7 +2,7 @@
 // topics: [name, papers examined on, 'sub; sub; sub', { opt, w }]
 module.exports = [
   {
-    id: 'ocr-physics-a-h556', board: 'OCR', subject: 'Physics', title: 'Physics A', code: 'H556', firstExam: 2017,
+    id: 'ocr-physics-a-h556', board: 'OCR', subject: 'Physics', title: 'Physics A', code: 'H556', firstExam: 2017, v: 2,
     url: 'https://www.ocr.org.uk/qualifications/as-and-a-level/physics-a-h156-h556-from-2015/',
     papers: [['H556/01', 'Paper 1: Modelling physics'], ['H556/02', 'Paper 2: Exploring physics'], ['H556/03', 'Paper 3: Unified physics']],
     topics: [

@@ -2,7 +2,7 @@
 // topics: [name, papers examined on, 'sub; sub; sub', { opt, w }]
 module.exports = [
   {
-    id: 'aqa-economics-7136', board: 'AQA', subject: 'Economics', code: '7136', firstExam: 2017,
+    id: 'aqa-economics-7136', board: 'AQA', subject: 'Economics', code: '7136', firstExam: 2017, v: 2,
     url: 'https://www.aqa.org.uk/subjects/economics/a-level/economics-7136/specification',
     papers: [['7136/1', 'Paper 1: Markets and market failure'], ['7136/2', 'Paper 2: National and international economy'], ['7136/3', 'Paper 3: Economic principles and issues']],
     topics: [
@@ -24,7 +24,7 @@ module.exports = [
     unsure: ['Some school documents quote 7135; that is the AS code. The A-level is 7136.', 'Spec version number not recorded.'],
   },
   {
-    id: 'aqa-psychology-7182', board: 'AQA', subject: 'Psychology', code: '7182', firstExam: 2017,
+    id: 'aqa-psychology-7182', board: 'AQA', subject: 'Psychology', code: '7182', firstExam: 2017, v: 2,
     url: 'https://www.aqa.org.uk/subjects/psychology/a-level/psychology-7182/specification',
     options: [
       { id: 'opt1', name: 'Paper 3 option 1', choices: [['rel', 'Relationships'], ['gen', 'Gender'], ['cog', 'Cognition and development']] },
@@ -54,7 +54,7 @@ module.exports = [
     unsure: ['Spec version number not recorded.'],
   },
   {
-    id: 'aqa-biology-7402', board: 'AQA', subject: 'Biology', code: '7402', firstExam: 2017,
+    id: 'aqa-biology-7402', board: 'AQA', subject: 'Biology', code: '7402', firstExam: 2017, v: 2,
     url: 'https://www.aqa.org.uk/subjects/biology/a-level/biology-7402/specification',
     papers: [['7402/1', 'Paper 1'], ['7402/2', 'Paper 2'], ['7402/3', 'Paper 3']],
     topics: [

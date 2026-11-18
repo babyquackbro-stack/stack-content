@@ -4,7 +4,36 @@ const LIT_TEXT = 'Plot and structure; Characters; Themes; Context; Critical view
 
 module.exports = [
   {
-    id: 'pearson-maths-9ma0', board: 'Pearson', subject: 'Mathematics', code: '9MA0', firstExam: 2018,
+    id: 'pearson-economics-a-9ec0', board: 'Pearson', subject: 'Economics', title: 'Economics A', code: '9EC0', firstExam: 2017, v: 1,
+    url: 'https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/economics-a-2015.html',
+    papers: [['9EC0/01', 'Paper 1: Markets and business behaviour'], ['9EC0/02', 'Paper 2: The national and global economy'], ['9EC0/03', 'Paper 3: Microeconomics and macroeconomics']],
+    topics: [
+      ['Nature of economics (1.1)', '01,03', 'Economics as a social science; Positive and normative statements; The economic problem; Production possibility frontiers; Specialisation and the division of labour; Free market, mixed and command economies'],
+      ['How markets work (1.2)', '01,03', 'Rational decision making; Demand; Price, income and cross elasticities of demand; Supply; Price elasticity of supply; Price determination; Price mechanism; Consumer and producer surplus; Indirect taxes and subsidies; Alternative views of consumer behaviour'],
+      ['Market failure (1.3)', '01,03', 'Types of market failure; Externalities; Public goods; Information gaps'],
+      ['Government intervention (1.4)', '01,03', 'Methods of government intervention; Government failure'],
+      ['Business growth (3.1)', '01,03', 'Sizes and types of firms; Business growth; Demergers'],
+      ['Business objectives (3.2)', '01,03', 'Profit maximisation; Revenue and sales maximisation; Satisficing'],
+      ['Revenues, costs and profits (3.3)', '01,03', 'Revenue; Costs; Economies and diseconomies of scale; Normal profits, supernormal profits and losses'],
+      ['Market structures (3.4)', '01,03', 'Efficiency; Perfect competition; Monopolistic competition; Oligopoly; Monopoly; Monopsony; Contestability'],
+      ['Labour market (3.5)', '01,03', 'Demand for labour; Supply of labour; Wage determination in competitive and non-competitive markets'],
+      ['Government intervention in business (3.6)', '01,03', 'Government intervention; The impact of government intervention'],
+      ['Measures of economic performance (2.1)', '02,03', 'Economic growth; Inflation; Employment and unemployment; Balance of payments'],
+      ['Aggregate demand (2.2)', '02,03', 'The characteristics of AD; Consumption; Investment; Government expenditure; Net trade'],
+      ['Aggregate supply (2.3)', '02,03', 'The characteristics of AS; Short-run AS; Long-run AS'],
+      ['National income (2.4)', '02,03', 'National income; Injections and withdrawals; Equilibrium levels of real national output; The multiplier'],
+      ['Economic growth (2.5)', '02,03', 'Causes of growth; Output gaps; Trade (business) cycle; The impact of economic growth'],
+      ['Macroeconomic objectives and policies (2.6)', '02,03', 'Possible macroeconomic objectives; Demand-side policies; Supply-side policies; Conflicts and trade-offs between objectives and policies'],
+      ['International economics (4.1)', '02,03', 'Globalisation; Specialisation and trade; Pattern of trade; Terms of trade; Trading blocs and the WTO; Restrictions on free trade; Balance of payments; Exchange rates; International competitiveness'],
+      ['Poverty and inequality (4.2)', '02,03', 'Absolute and relative poverty; Inequality'],
+      ['Emerging and developing economies (4.3)', '02,03', 'Measures of development; Factors influencing growth and development; Strategies influencing growth and development'],
+      ['The financial sector (4.4)', '02,03', 'Role of financial markets; Market failure in the financial sector; Role of central banks'],
+      ['Role of the state in the macroeconomy (4.5)', '02,03', 'Public expenditure; Taxation; Public sector finances; Macroeconomic policies in a global context'],
+    ],
+    unsure: ['Sub-topic wording is from memory of the spec headings; check against the Pearson spec.', 'Spec issue number not recorded.'],
+  },
+  {
+    id: 'pearson-maths-9ma0', board: 'Pearson', subject: 'Mathematics', code: '9MA0', firstExam: 2018, v: 2,
     url: 'https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/mathematics-2017.html',
     papers: [['9MA0/01', 'Paper 1: Pure Mathematics 1'], ['9MA0/02', 'Paper 2: Pure Mathematics 2'], ['9MA0/03', 'Paper 3: Statistics and Mechanics']],
     topics: [
@@ -31,7 +60,7 @@ module.exports = [
     unsure: ['Spec issue number not recorded.'],
   },
   {
-    id: 'pearson-englit-9et0', board: 'Pearson', subject: 'English Literature', code: '9ET0', firstExam: 2017,
+    id: 'pearson-englit-9et0', board: 'Pearson', subject: 'English Literature', code: '9ET0', firstExam: 2017, v: 2,
     url: 'https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/english-literature-2015.html',
     options: [
       { id: 'shakes', name: 'Paper 1 Shakespeare play', choices: [['ac', 'Antony and Cleopatra'], ['ham', 'Hamlet'], ['lear', 'King Lear'], ['oth', 'Othello'], ['mfm', 'Measure for Measure'], ['shrew', 'The Taming of the Shrew'], ['msnd', 'A Midsummer Night\'s Dream'], ['twn', 'Twelfth Night']] },

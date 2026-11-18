@@ -1,0 +1,326 @@
+{
+ "packId": "ocr-physics-a-h556",
+ "note": "Notional component (per-paper) raw-mark boundaries, copied from the board documents in source. Max = paper total.",
+ "series": {
+  "2017-06": {
+   "source": "https://www.ocr.org.uk/Images/411689-new-a-level-grade-boundaries-june-2017.pdf",
+   "papers": {
+    "H556/01": {
+     "max": 100,
+     "A*": 81,
+     "A": 71,
+     "B": 62,
+     "C": 52,
+     "D": 43,
+     "E": 33
+    },
+    "H556/02": {
+     "max": 100,
+     "A*": 79,
+     "A": 68,
+     "B": 57,
+     "C": 47,
+     "D": 36,
+     "E": 25
+    },
+    "H556/03": {
+     "max": 70,
+     "A*": 47,
+     "A": 39,
+     "B": 32,
+     "C": 25,
+     "D": 18,
+     "E": 12
+    }
+   }
+  },
+  "2018-06": {
+   "source": "https://www.ocr.org.uk/Images/500693-new-a-level-grade-boundaries-june-2018.pdf",
+   "papers": {
+    "H556/01": {
+     "max": 100,
+     "A*": 83,
+     "A": 72,
+     "B": 60,
+     "C": 49,
+     "D": 38,
+     "E": 27
+    },
+    "H556/02": {
+     "max": 100,
+     "A*": 81,
+     "A": 69,
+     "B": 57,
+     "C": 46,
+     "D": 35,
+     "E": 24
+    },
+    "H556/03": {
+     "max": 70,
+     "A*": 55,
+     "A": 47,
+     "B": 39,
+     "C": 31,
+     "D": 24,
+     "E": 17
+    }
+   }
+  },
+  "2019-06": {
+   "source": "https://www.ocr.org.uk/Images/552365-reformed-a-level-grade-boundaries-june-2019.pdf",
+   "papers": {
+    "H556/01": {
+     "max": 100,
+     "A*": 88,
+     "A": 80,
+     "B": 70,
+     "C": 59,
+     "D": 48,
+     "E": 36
+    },
+    "H556/02": {
+     "max": 100,
+     "A*": 87,
+     "A": 77,
+     "B": 65,
+     "C": 53,
+     "D": 41,
+     "E": 30
+    },
+    "H556/03": {
+     "max": 70,
+     "A*": 55,
+     "A": 47,
+     "B": 39,
+     "C": 32,
+     "D": 25,
+     "E": 18
+    }
+   }
+  },
+  "2020-11": {
+   "source": "https://www.ocr.org.uk/Images/604340-as-a-level-and-core-maths-grade-boundaries-november-2020.pdf",
+   "papers": {
+    "H556/01": {
+     "max": 100,
+     "A*": 84,
+     "A": 75,
+     "B": 62,
+     "C": 49,
+     "D": 36,
+     "E": 23
+    },
+    "H556/02": {
+     "max": 100,
+     "A*": 82,
+     "A": 72,
+     "B": 59,
+     "C": 46,
+     "D": 34,
+     "E": 22
+    },
+    "H556/03": {
+     "max": 70,
+     "A*": 55,
+     "A": 45,
+     "B": 38,
+     "C": 31,
+     "D": 24,
+     "E": 17
+    }
+   }
+  },
+  "2021-11": {
+   "source": "https://www.ocr.org.uk/Images/643002-as-a-level-and-core-maths-grade-boundaries-november-2021.pdf",
+   "papers": {
+    "H556/01": {
+     "max": 100,
+     "A*": 83,
+     "A": 69,
+     "B": 58,
+     "C": 46,
+     "D": 34,
+     "E": 23
+    },
+    "H556/02": {
+     "max": 100,
+     "A*": 78,
+     "A": 66,
+     "B": 54,
+     "C": 43,
+     "D": 32,
+     "E": 21
+    },
+    "H556/03": {
+     "max": 70,
+     "A*": 53,
+     "A": 47,
+     "B": 39,
+     "C": 31,
+     "D": 23,
+     "E": 15
+    }
+   }
+  },
+  "2022-06": {
+   "source": "https://www.ocr.org.uk/Images/658475-as-and-a-level-grade-boundaries-june-2022.pdf",
+   "papers": {
+    "H556/01": {
+     "max": 100,
+     "A*": 83,
+     "A": 73,
+     "B": 60,
+     "C": 47,
+     "D": 34,
+     "E": 21
+    },
+    "H556/02": {
+     "max": 100,
+     "A*": 79,
+     "A": 67,
+     "B": 54,
+     "C": 41,
+     "D": 28,
+     "E": 16
+    },
+    "H556/03": {
+     "max": 70,
+     "A*": 49,
+     "A": 41,
+     "B": 33,
+     "C": 25,
+     "D": 18,
+     "E": 10
+    }
+   }
+  },
+  "2023-06": {
+   "source": "https://www.ocr.org.uk/Images/690902-as-and-a-level-grade-boundaries-june-2023.pdf",
+   "papers": {
+    "H556/01": {
+     "max": 100,
+     "A*": 74,
+     "A": 65,
+     "B": 54,
+     "C": 43,
+     "D": 32,
+     "E": 22
+    },
+    "H556/02": {
+     "max": 100,
+     "A*": 81,
+     "A": 69,
+     "B": 57,
+     "C": 45,
+     "D": 34,
+     "E": 22
+    },
+    "H556/03": {
+     "max": 70,
+     "A*": 56,
+     "A": 48,
+     "B": 40,
+     "C": 32,
+     "D": 24,
+     "E": 16
+    }
+   }
+  },
+  "2024-06": {
+   "source": "https://www.ocr.org.uk/Images/714687-as-and-a-level-grade-boundaries-june-2024.pdf",
+   "papers": {
+    "H556/01": {
+     "max": 100,
+     "A*": 72,
+     "A": 63,
+     "B": 52,
+     "C": 42,
+     "D": 32,
+     "E": 22
+    },
+    "H556/02": {
+     "max": 100,
+     "A*": 84,
+     "A": 70,
+     "B": 58,
+     "C": 46,
+     "D": 34,
+     "E": 22
+    },
+    "H556/03": {
+     "max": 70,
+     "A*": 51,
+     "A": 42,
+     "B": 36,
+     "C": 29,
+     "D": 22,
+     "E": 15
+    }
+   }
+  },
+  "2025-06": {
+   "source": "https://www.ocr.org.uk/Images/739509-as-and-a-level-grade-boundaries-june-2025.pdf",
+   "papers": {
+    "H556/01": {
+     "max": 100,
+     "A*": 75,
+     "A": 66,
+     "B": 56,
+     "C": 46,
+     "D": 36,
+     "E": 26
+    },
+    "H556/02": {
+     "max": 100,
+     "A*": 84,
+     "A": 74,
+     "B": 62,
+     "C": 50,
+     "D": 39,
+     "E": 27
+    },
+    "H556/03": {
+     "max": 70,
+     "A*": 47,
+     "A": 39,
+     "B": 33,
+     "C": 27,
+     "D": 21,
+     "E": 16
+    }
+   }
+  },
+  "2026-06": {
+   "source": "https://www.ocr.org.uk/Images/760861-as-and-a-level-grade-boundaries-june-2026.pdf",
+   "papers": {
+    "H556/01": {
+     "max": 100,
+     "A*": 75,
+     "A": 65,
+     "B": 56,
+     "C": 47,
+     "D": 39,
+     "E": 30
+    },
+    "H556/02": {
+     "max": 100,
+     "A*": 80,
+     "A": 71,
+     "B": 59,
+     "C": 46,
+     "D": 33,
+     "E": 21
+    },
+    "H556/03": {
+     "max": 70,
+     "A*": 52,
+     "A": 42,
+     "B": 36,
+     "C": 31,
+     "D": 25,
+     "E": 19
+    }
+   }
+  }
+ }
+}

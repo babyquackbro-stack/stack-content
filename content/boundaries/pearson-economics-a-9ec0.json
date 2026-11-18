@@ -1,0 +1,166 @@
+{
+ "packId": "pearson-economics-a-9ec0",
+ "note": "Notional component (per-paper) raw-mark boundaries, copied from the board documents in source. Max = paper total.",
+ "series": {
+  "2022-06": {
+   "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/A-level/2206-gce-notional-component-grade-boundaries.pdf",
+   "papers": {
+    "9EC0/01": {
+     "max": 100,
+     "A*": 78,
+     "A": 70,
+     "B": 59,
+     "C": 48,
+     "D": 37,
+     "E": 27
+    },
+    "9EC0/02": {
+     "max": 100,
+     "A*": 79,
+     "A": 71,
+     "B": 60,
+     "C": 49,
+     "D": 38,
+     "E": 28
+    },
+    "9EC0/03": {
+     "max": 100,
+     "A*": 77,
+     "A": 69,
+     "B": 58,
+     "C": 47,
+     "D": 37,
+     "E": 27
+    }
+   }
+  },
+  "2023-06": {
+   "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/A-level/2306-gce-notional-component-grade-boundaries.pdf",
+   "papers": {
+    "9EC0/01": {
+     "max": 100,
+     "A*": 82,
+     "A": 74,
+     "B": 63,
+     "C": 53,
+     "D": 43,
+     "E": 33
+    },
+    "9EC0/02": {
+     "max": 100,
+     "A*": 81,
+     "A": 72,
+     "B": 62,
+     "C": 52,
+     "D": 42,
+     "E": 32
+    },
+    "9EC0/03": {
+     "max": 100,
+     "A*": 81,
+     "A": 73,
+     "B": 63,
+     "C": 53,
+     "D": 43,
+     "E": 34
+    }
+   }
+  },
+  "2024-06": {
+   "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/A-level/grade-boundaries-june-2024-notional-component-gce.pdf",
+   "papers": {
+    "9EC0/01": {
+     "max": 100,
+     "A*": 82,
+     "A": 74,
+     "B": 63,
+     "C": 53,
+     "D": 43,
+     "E": 33
+    },
+    "9EC0/02": {
+     "max": 100,
+     "A*": 83,
+     "A": 75,
+     "B": 64,
+     "C": 53,
+     "D": 43,
+     "E": 33
+    },
+    "9EC0/03": {
+     "max": 100,
+     "A*": 84,
+     "A": 76,
+     "B": 65,
+     "C": 54,
+     "D": 44,
+     "E": 34
+    }
+   }
+  },
+  "2025-06": {
+   "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/A-level/grade-boundaries-june-2025-notional-component-gce.pdf",
+   "papers": {
+    "9EC0/01": {
+     "max": 100,
+     "A*": 87,
+     "A": 79,
+     "B": 68,
+     "C": 58,
+     "D": 48,
+     "E": 38
+    },
+    "9EC0/02": {
+     "max": 100,
+     "A*": 85,
+     "A": 78,
+     "B": 67,
+     "C": 57,
+     "D": 47,
+     "E": 37
+    },
+    "9EC0/03": {
+     "max": 100,
+     "A*": 85,
+     "A": 77,
+     "B": 66,
+     "C": 56,
+     "D": 46,
+     "E": 36
+    }
+   }
+  },
+  "2026-06": {
+   "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/A-level/grade-boundaries-june-2026-notional-component-gce.pdf",
+   "papers": {
+    "9EC0/01": {
+     "max": 100,
+     "A*": 85,
+     "A": 78,
+     "B": 67,
+     "C": 57,
+     "D": 47,
+     "E": 37
+    },
+    "9EC0/02": {
+     "max": 100,
+     "A*": 87,
+     "A": 80,
+     "B": 69,
+     "C": 59,
+     "D": 49,
+     "E": 39
+    },
+    "9EC0/03": {
+     "max": 100,
+     "A*": 86,
+     "A": 79,
+     "B": 68,
+     "C": 57,
+     "D": 47,
+     "E": 37
+    }
+   }
+  }
+ }
+}

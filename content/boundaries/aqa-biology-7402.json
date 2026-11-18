@@ -1,0 +1,198 @@
+{
+ "packId": "aqa-biology-7402",
+ "note": "Notional component (per-paper) raw-mark boundaries, copied from the board documents in source. Max = paper total.",
+ "series": {
+  "2021-11": {
+   "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-A-LEVEL-GDE-BDY-NOV-2021.PDF",
+   "papers": {
+    "7402/1": {
+     "max": 91,
+     "A*": 59,
+     "A": 48,
+     "B": 40,
+     "C": 32,
+     "D": 24,
+     "E": 17
+    },
+    "7402/2": {
+     "max": 91,
+     "A*": 58,
+     "A": 47,
+     "B": 38,
+     "C": 30,
+     "D": 22,
+     "E": 14
+    },
+    "7402/3": {
+     "max": 78,
+     "A*": 51,
+     "A": 41,
+     "B": 34,
+     "C": 28,
+     "D": 22,
+     "E": 16
+    }
+   }
+  },
+  "2022-06": {
+   "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-A-LEVEL-GDE-BDY-JUN-2022.PDF",
+   "papers": {
+    "7402/1": {
+     "max": 91,
+     "A*": 62,
+     "A": 51,
+     "B": 41,
+     "C": 31,
+     "D": 22,
+     "E": 13
+    },
+    "7402/2": {
+     "max": 91,
+     "A*": 62,
+     "A": 51,
+     "B": 41,
+     "C": 31,
+     "D": 22,
+     "E": 13
+    },
+    "7402/3": {
+     "max": 78,
+     "A*": 50,
+     "A": 40,
+     "B": 32,
+     "C": 25,
+     "D": 18,
+     "E": 11
+    }
+   }
+  },
+  "2023-06": {
+   "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-A-LEVEL-GDE-BDY-JUN-2023.PDF",
+   "papers": {
+    "7402/1": {
+     "max": 91,
+     "A*": 63,
+     "A": 53,
+     "B": 43,
+     "C": 34,
+     "D": 25,
+     "E": 16
+    },
+    "7402/2": {
+     "max": 91,
+     "A*": 66,
+     "A": 58,
+     "B": 47,
+     "C": 36,
+     "D": 25,
+     "E": 15
+    },
+    "7402/3": {
+     "max": 78,
+     "A*": 51,
+     "A": 42,
+     "B": 34,
+     "C": 27,
+     "D": 20,
+     "E": 13
+    }
+   }
+  },
+  "2024-06": {
+   "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-A-LEVEL-GDE-BDY-JUN-2024.PDF",
+   "papers": {
+    "7402/1": {
+     "max": 91,
+     "A*": 67,
+     "A": 58,
+     "B": 49,
+     "C": 40,
+     "D": 31,
+     "E": 23
+    },
+    "7402/2": {
+     "max": 91,
+     "A*": 67,
+     "A": 57,
+     "B": 48,
+     "C": 39,
+     "D": 30,
+     "E": 21
+    },
+    "7402/3": {
+     "max": 78,
+     "A*": 58,
+     "A": 50,
+     "B": 43,
+     "C": 36,
+     "D": 29,
+     "E": 23
+    }
+   }
+  },
+  "2025-06": {
+   "source": "https://cdn.sanity.io/files/p28bar15/green/dbed610cecc941b4d8c16ca921b352797599bf9c.pdf",
+   "papers": {
+    "7402/1": {
+     "max": 91,
+     "A*": 66,
+     "A": 56,
+     "B": 47,
+     "C": 38,
+     "D": 29,
+     "E": 21
+    },
+    "7402/2": {
+     "max": 91,
+     "A*": 69,
+     "A": 60,
+     "B": 50,
+     "C": 40,
+     "D": 30,
+     "E": 20
+    },
+    "7402/3": {
+     "max": 78,
+     "A*": 57,
+     "A": 49,
+     "B": 42,
+     "C": 35,
+     "D": 28,
+     "E": 22
+    }
+   }
+  },
+  "2026-06": {
+   "source": "https://cdn.sanity.io/files/p28bar15/green/63cb28a7468d750e12f2f8859cba85fbf62213d3.pdf",
+   "papers": {
+    "7402/1": {
+     "max": 91,
+     "A*": 70,
+     "A": 61,
+     "B": 51,
+     "C": 42,
+     "D": 33,
+     "E": 24
+    },
+    "7402/2": {
+     "max": 91,
+     "A*": 70,
+     "A": 62,
+     "B": 51,
+     "C": 40,
+     "D": 29,
+     "E": 18
+    },
+    "7402/3": {
+     "max": 78,
+     "A*": 59,
+     "A": 51,
+     "B": 43,
+     "C": 35,
+     "D": 28,
+     "E": 21
+    }
+   }
+  }
+ }
+}

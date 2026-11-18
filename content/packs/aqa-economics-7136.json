@@ -9,7 +9,7 @@
  "firstExam": 2017,
  "specVersion": null,
  "source": "https://www.aqa.org.uk/subjects/economics/a-level/economics-7136/specification",
- "v": 1,
+ "v": 2,
  "series": "June 2027",
  "hours": 60,
  "options": [],
@@ -19,21 +19,24 @@
    "name": "Paper 1: Markets and market failure",
    "minutes": 120,
    "date": "2027-05-10",
-   "start": "09:00"
+   "start": "09:00",
+   "marks": 80
   },
   {
    "id": "7136/2",
    "name": "Paper 2: National and international economy",
    "minutes": 120,
    "date": "2027-05-17",
-   "start": "13:30"
+   "start": "13:30",
+   "marks": 80
   },
   {
    "id": "7136/3",
    "name": "Paper 3: Economic principles and issues",
    "minutes": 120,
    "date": "2027-06-07",
-   "start": "09:00"
+   "start": "09:00",
+   "marks": 80
   }
  ],
  "topics": [
@@ -291,6 +294,387 @@
    "sub": [],
    "practice": true,
    "mins": 135
+  }
+ ],
+ "pastPapers": [
+  {
+   "id": "2026-06",
+   "name": "June 2026",
+   "source": "https://cdn.sanity.io/files/p28bar15/green/63cb28a7468d750e12f2f8859cba85fbf62213d3.pdf",
+   "papers": {
+    "7136/1": {
+     "max": 80,
+     "A*": 62,
+     "A": 55,
+     "B": 46,
+     "C": 37,
+     "D": 29,
+     "E": 21
+    },
+    "7136/2": {
+     "max": 80,
+     "A*": 58,
+     "A": 50,
+     "B": 42,
+     "C": 34,
+     "D": 27,
+     "E": 20
+    },
+    "7136/3": {
+     "max": 80,
+     "A*": 58,
+     "A": 49,
+     "B": 43,
+     "C": 37,
+     "D": 31,
+     "E": 25
+    }
+   }
+  },
+  {
+   "id": "2025-06",
+   "name": "June 2025",
+   "source": "https://cdn.sanity.io/files/p28bar15/green/dbed610cecc941b4d8c16ca921b352797599bf9c.pdf",
+   "papers": {
+    "7136/1": {
+     "max": 80,
+     "A*": 61,
+     "A": 54,
+     "B": 45,
+     "C": 36,
+     "D": 28,
+     "E": 20
+    },
+    "7136/2": {
+     "max": 80,
+     "A*": 60,
+     "A": 52,
+     "B": 43,
+     "C": 34,
+     "D": 26,
+     "E": 18
+    },
+    "7136/3": {
+     "max": 80,
+     "A*": 56,
+     "A": 47,
+     "B": 41,
+     "C": 35,
+     "D": 29,
+     "E": 23
+    }
+   }
+  },
+  {
+   "id": "2024-06",
+   "name": "June 2024",
+   "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-A-LEVEL-GDE-BDY-JUN-2024.PDF",
+   "papers": {
+    "7136/1": {
+     "max": 80,
+     "A*": 59,
+     "A": 52,
+     "B": 44,
+     "C": 36,
+     "D": 28,
+     "E": 20
+    },
+    "7136/2": {
+     "max": 80,
+     "A*": 58,
+     "A": 50,
+     "B": 42,
+     "C": 34,
+     "D": 26,
+     "E": 19
+    },
+    "7136/3": {
+     "max": 80,
+     "A*": 56,
+     "A": 47,
+     "B": 40,
+     "C": 34,
+     "D": 28,
+     "E": 22
+    }
+   }
+  },
+  {
+   "id": "2023-06",
+   "name": "June 2023",
+   "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-A-LEVEL-GDE-BDY-JUN-2023.PDF",
+   "papers": {
+    "7136/1": {
+     "max": 80,
+     "A*": 63,
+     "A": 56,
+     "B": 46,
+     "C": 37,
+     "D": 28,
+     "E": 19
+    },
+    "7136/2": {
+     "max": 80,
+     "A*": 60,
+     "A": 51,
+     "B": 43,
+     "C": 35,
+     "D": 27,
+     "E": 20
+    },
+    "7136/3": {
+     "max": 80,
+     "A*": 59,
+     "A": 49,
+     "B": 42,
+     "C": 35,
+     "D": 29,
+     "E": 23
+    }
+   }
+  },
+  {
+   "id": "2022-06",
+   "name": "June 2022",
+   "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-A-LEVEL-GDE-BDY-JUN-2022.PDF",
+   "papers": {
+    "7136/1": {
+     "max": 80,
+     "A*": 59,
+     "A": 51,
+     "B": 42,
+     "C": 33,
+     "D": 25,
+     "E": 17
+    },
+    "7136/2": {
+     "max": 80,
+     "A*": 59,
+     "A": 51,
+     "B": 41,
+     "C": 31,
+     "D": 22,
+     "E": 13
+    },
+    "7136/3": {
+     "max": 80,
+     "A*": 57,
+     "A": 49,
+     "B": 41,
+     "C": 34,
+     "D": 27,
+     "E": 20
+    }
+   }
+  },
+  {
+   "id": "2021-11",
+   "name": "November 2021",
+   "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-A-LEVEL-GDE-BDY-NOV-2021.PDF",
+   "papers": {
+    "7136/1": {
+     "max": 80,
+     "A*": 58,
+     "A": 50,
+     "B": 42,
+     "C": 35,
+     "D": 28,
+     "E": 21
+    },
+    "7136/2": {
+     "max": 80,
+     "A*": 58,
+     "A": 50,
+     "B": 42,
+     "C": 35,
+     "D": 28,
+     "E": 21
+    },
+    "7136/3": {
+     "max": 80,
+     "A*": 57,
+     "A": 48,
+     "B": 42,
+     "C": 36,
+     "D": 30,
+     "E": 24
+    }
+   }
+  },
+  {
+   "id": "2020-11",
+   "name": "November 2020",
+   "est": true,
+   "note": "Estimated: the average of the 2021–2026 boundaries",
+   "papers": {
+    "7136/1": {
+     "max": 80,
+     "A*": 60,
+     "A": 53,
+     "B": 44,
+     "C": 36,
+     "D": 28,
+     "E": 20
+    },
+    "7136/2": {
+     "max": 80,
+     "A*": 59,
+     "A": 51,
+     "B": 42,
+     "C": 34,
+     "D": 26,
+     "E": 19
+    },
+    "7136/3": {
+     "max": 80,
+     "A*": 57,
+     "A": 48,
+     "B": 42,
+     "C": 35,
+     "D": 29,
+     "E": 23
+    }
+   }
+  },
+  {
+   "id": "2019-06",
+   "name": "June 2019",
+   "est": true,
+   "note": "Estimated: the average of the 2021–2026 boundaries",
+   "papers": {
+    "7136/1": {
+     "max": 80,
+     "A*": 60,
+     "A": 53,
+     "B": 44,
+     "C": 36,
+     "D": 28,
+     "E": 20
+    },
+    "7136/2": {
+     "max": 80,
+     "A*": 59,
+     "A": 51,
+     "B": 42,
+     "C": 34,
+     "D": 26,
+     "E": 19
+    },
+    "7136/3": {
+     "max": 80,
+     "A*": 57,
+     "A": 48,
+     "B": 42,
+     "C": 35,
+     "D": 29,
+     "E": 23
+    }
+   }
+  },
+  {
+   "id": "2018-06",
+   "name": "June 2018",
+   "est": true,
+   "note": "Estimated: the average of the 2021–2026 boundaries",
+   "papers": {
+    "7136/1": {
+     "max": 80,
+     "A*": 60,
+     "A": 53,
+     "B": 44,
+     "C": 36,
+     "D": 28,
+     "E": 20
+    },
+    "7136/2": {
+     "max": 80,
+     "A*": 59,
+     "A": 51,
+     "B": 42,
+     "C": 34,
+     "D": 26,
+     "E": 19
+    },
+    "7136/3": {
+     "max": 80,
+     "A*": 57,
+     "A": 48,
+     "B": 42,
+     "C": 35,
+     "D": 29,
+     "E": 23
+    }
+   }
+  },
+  {
+   "id": "2017-06",
+   "name": "June 2017",
+   "est": true,
+   "note": "Estimated: the average of the 2021–2026 boundaries",
+   "papers": {
+    "7136/1": {
+     "max": 80,
+     "A*": 60,
+     "A": 53,
+     "B": 44,
+     "C": 36,
+     "D": 28,
+     "E": 20
+    },
+    "7136/2": {
+     "max": 80,
+     "A*": 59,
+     "A": 51,
+     "B": 42,
+     "C": 34,
+     "D": 26,
+     "E": 19
+    },
+    "7136/3": {
+     "max": 80,
+     "A*": 57,
+     "A": 48,
+     "B": 42,
+     "C": 35,
+     "D": 29,
+     "E": 23
+    }
+   }
+  },
+  {
+   "id": "specimen",
+   "name": "Specimen papers",
+   "est": true,
+   "note": "Estimated: the average of the 2021–2026 boundaries",
+   "papers": {
+    "7136/1": {
+     "max": 80,
+     "A*": 60,
+     "A": 53,
+     "B": 44,
+     "C": 36,
+     "D": 28,
+     "E": 20
+    },
+    "7136/2": {
+     "max": 80,
+     "A*": 59,
+     "A": 51,
+     "B": 42,
+     "C": 34,
+     "D": 26,
+     "E": 19
+    },
+    "7136/3": {
+     "max": 80,
+     "A*": 57,
+     "A": 48,
+     "B": 42,
+     "C": 35,
+     "D": 29,
+     "E": 23
+    }
+   }
   }
  ],
  "unsure": [
